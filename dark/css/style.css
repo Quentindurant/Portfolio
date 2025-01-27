@@ -124,6 +124,13 @@ hr.separator {
   margin-top: 20px;
 }
 
+.E5 {
+  background-color: #28a745 !important;
+}
+
+.E6 {
+  background-color: #ac2b2b !important;
+}
 
 .section-title {
   border-bottom: 2px solid #ac2b2b;
@@ -1827,3 +1834,4 @@ body.light hr.separator {
     margin-top: 35px !important;
   }
 }
+

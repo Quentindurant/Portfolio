@@ -9,7 +9,7 @@
             <div class="col-lg-4 bg d-none d-lg-block"></div>
             <div class="col-12 col-lg-8 home-details text-left text-sm-center text-lg-left">
                 <div>
-                    <h1 class="text-uppercase poppins-font">Quentin Durant<span>Apprenti Developpeur</span></h1>
+                    <h1 class="text-uppercase poppins-font">Quentin Durant caca<span>Apprenti Developpeur</span></h1>
                     <p class="open-sans-font">Actuellement en 2nd année de BTS SIO SLAM</p>
                     <a class="button" href="projet.php">
                         <span class="button-text">En savoir plus sur mes projets</span>

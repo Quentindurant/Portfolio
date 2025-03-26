@@ -62,33 +62,33 @@ nav.pagination {
                             </tr>
                             <tr>
                                 <td>Click'n Eat</td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                             <tr>
                                 <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de seconde année</td>
                             </tr>
                             <tr>
                                 <td>TELORA</td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                             <tr>
                                 <td>DELYTECH</td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                         </tbody>
                     </table>

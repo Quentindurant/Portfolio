@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<body class="grille">
-
-<?php include('partials/header.php'); ?>
+<?php
+// HEADER
+include 'partials/header.php';
+?>
 
 <!-- Page Title Starts -->
 <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
@@ -107,21 +105,7 @@
 </section>
 <!-- Main Content Ends -->
 
-<?php include('partials/footer.php'); ?>
-
-<!-- Template JS Files -->
-<script src="js/jquery-3.5.0.min.js"></script>
-<script src="js/styleswitcher.js"></script>
-<script src="js/preloader.min.js"></script>
-<script src="js/fm.revealator.jquery.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<script src="js/masonry.pkgd.min.js"></script>
-<script src="js/classie.js"></script>
-<script src="js/cbpGridGallery.js"></script>
-<script src="js/jquery.hoverdir.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/custom.js"></script>
-
-</body>
-</html>
+<?php
+// FOOTER
+include 'partials/footer.php';
+?>

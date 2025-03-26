@@ -1,27 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <title>Grille de compétences - Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Template CSS Files -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/preloader.min.css" rel="stylesheet">
-    <link href="css/circle.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/fm.revealator.jquery.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <!-- CSS Skin File -->
-    <link href="css/skins/red.css" rel="stylesheet">
-
-    <!-- Modernizr JS File -->
-    <script src="js/modernizr.custom.js"></script>
-</head>
-
 <body class="grille">
-    
+
 <?php include('partials/header.php'); ?>
 
 <!-- Page Title Starts -->

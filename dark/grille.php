@@ -3,6 +3,17 @@
 include 'partials/header.php';
 ?>
 
+<style>
+/* Masquer la barre de navigation en bas du tableau */
+.dataTables_paginate,
+.dataTables_info,
+.dataTables_length,
+.dataTables_filter,
+nav.pagination {
+    display: none !important;
+}
+</style>
+
 <!-- Page Title Starts -->
 <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
     <h1>Grille de <span>Compétences</span></h1>

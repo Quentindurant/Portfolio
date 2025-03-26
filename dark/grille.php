@@ -18,70 +18,6 @@
 
     <!-- Modernizr JS File -->
     <script src="js/modernizr.custom.js"></script>
-    
-    <style>
-        .competence-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 30px;
-            color: #fff;
-        }
-        
-        .competence-table th, .competence-table td {
-            border: 1px solid #444;
-            padding: 8px;
-            text-align: center;
-            vertical-align: middle;
-        }
-        
-        .competence-table th {
-            background-color: rgba(255, 0, 0, 0.2);
-            font-weight: bold;
-            position: relative;
-        }
-        
-        .competence-table .header-cell {
-            min-width: 120px;
-            height: 100px;
-            vertical-align: bottom;
-            position: relative;
-        }
-        
-        .competence-table .vertical-text {
-            writing-mode: vertical-rl;
-            transform: rotate(180deg);
-            white-space: nowrap;
-            position: absolute;
-            bottom: 10px;
-            left: 50%;
-            transform-origin: left bottom;
-            transform: translateX(-50%) rotate(180deg);
-        }
-        
-        .competence-table .projet-row {
-            background-color: rgba(0, 0, 0, 0.2);
-        }
-        
-        .competence-table .projet-row:hover {
-            background-color: rgba(255, 0, 0, 0.1);
-        }
-        
-        .competence-table .section-title {
-            background-color: rgba(255, 0, 0, 0.3);
-            text-align: left;
-            font-weight: bold;
-            padding: 10px;
-        }
-        
-        .competence-table .x-mark {
-            color: #ff0000;
-            font-weight: bold;
-        }
-        
-        .competence-table .empty-cell {
-            background-color: rgba(0, 0, 0, 0.1);
-        }
-    </style>
 </head>
 
 <body class="grille">
@@ -103,78 +39,78 @@
             <div class="col-12">
                 <h3 class="text-uppercase pb-4 pb-sm-5 mb-3 mb-sm-0 text-left text-sm-center custom-title ft-wt-600">BTS SERVICES INFORMATIQUES AUX ORGANISATIONS - SESSION 2024</h3>
                 <div class="table-responsive">
-                    <table class="competence-table">
+                    <table class="table table-bordered table-dark">
                         <thead>
-                            <tr>
+                            <tr class="text-center">
                                 <th colspan="7">Tableau de synthèse des réalisations professionnelles</th>
                             </tr>
                             <tr>
-                                <th rowspan="2" style="width: 25%;">Réalisations professionnelles</th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Gérer le patrimoine informatique</div>
+                                <th rowspan="2" style="width: 25%; vertical-align: middle;">Réalisations professionnelles</th>
+                                <th style="width: 12.5%; height: 100px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Gérer le patrimoine informatique</span>
                                 </th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Répondre aux incidents et aux demandes d'assistance</div>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Répondre aux incidents et aux demandes d'assistance</span>
                                 </th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Développer la présence en ligne de l'organisation</div>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Développer la présence en ligne de l'organisation</span>
                                 </th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Travailler en mode projet</div>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Travailler en mode projet</span>
                                 </th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Mettre à disposition des utilisateurs un service informatique</div>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Mettre à disposition des utilisateurs un service informatique</span>
                                 </th>
-                                <th class="header-cell">
-                                    <div class="vertical-text">Organiser son développement professionnel</div>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                    <span>Organiser son développement professionnel</span>
                                 </th>
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td colspan="7" class="section-title">Réalisation en cours de formation</td>
+                            <tr class="bg-dark">
+                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisation en cours de formation</td>
                             </tr>
-                            <tr class="projet-row">
+                            <tr>
                                 <td>Portfolio</td>
-                                <td class="empty-cell"></td>
-                                <td class="empty-cell"></td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                            </tr>
+                            <tr class="bg-dark">
+                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de première année</td>
                             </tr>
                             <tr>
-                                <td colspan="7" class="section-title">Réalisations en milieu professionnel en cours de première année</td>
-                            </tr>
-                            <tr class="projet-row">
                                 <td>Click'n Eat</td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                            </tr>
+                            <tr class="bg-dark">
+                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de seconde année</td>
                             </tr>
                             <tr>
-                                <td colspan="7" class="section-title">Réalisations en milieu professionnel en cours de seconde année</td>
-                            </tr>
-                            <tr class="projet-row">
                                 <td>TELORA</td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
-                            <tr class="projet-row">
+                            <tr>
                                 <td>DELYTECH</td>
-                                <td class="empty-cell"></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
-                                <td><span class="x-mark">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                         </tbody>
                     </table>

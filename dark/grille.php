@@ -35,25 +35,13 @@ nav.pagination {
                                 <th colspan="7">Tableau de synthèse des réalisations professionnelles</th>
                             </tr>
                             <tr>
-                                <th rowspan="2" style="width: 25%; vertical-align: middle;">Réalisations professionnelles</th>
-                                <th style="width: 12.5%; height: 180px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 120px; margin-left: 15px;">Gérer le patrimoine informatique</span>
-                                </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 180px; margin-left: 15px;">Répondre aux incidents et aux demandes d'assistance</span>
-                                </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 160px; margin-left: 15px;">Développer la présence en ligne de l'organisation</span>
-                                </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 120px; margin-left: 15px;">Travailler en mode projet</span>
-                                </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 180px; margin-left: 15px;">Mettre à disposition un service informatique</span>
-                                </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 140px; margin-left: 15px;">Organiser son développement professionnel</span>
-                                </th>
+                                <th style="width: 25%;">Réalisations professionnelles</th>
+                                <th style="width: 12.5%;" class="text-center">Gérer patrimoine info.</th>
+                                <th style="width: 12.5%;" class="text-center">Répondre incidents</th>
+                                <th style="width: 12.5%;" class="text-center">Développer présence en ligne</th>
+                                <th style="width: 12.5%;" class="text-center">Travailler en mode projet</th>
+                                <th style="width: 12.5%;" class="text-center">Mettre à disposition service info.</th>
+                                <th style="width: 12.5%;" class="text-center">Organiser dév. pro.</th>
                             </tr>
                         </thead>
                         <tbody>

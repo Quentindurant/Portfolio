@@ -77,7 +77,7 @@
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/Calculette-de-pret-immobilier-JavaScript/" target="_blank">Calculette Immobilier</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://calculimmo.quentindurant.com" target="_blank">Calculette Immobilier</a></span>
                                     </div>
                                 </div>
                             </figcaption>
@@ -105,7 +105,7 @@
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">SQL, HTML, CSS, PHP </span>
                                     </div>
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/Newsletter/" target="_blank">Newsletter</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://newsletter.quentindurant.com" target="_blank">Newsletter</a></span>
                                     </div>
                                 </div>
                             </figcaption>
@@ -267,7 +267,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Annuaire LDAP</h3>
+                                <h3>TELORA</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LDAP</span>

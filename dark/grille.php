@@ -25,23 +25,23 @@ include 'partials/header.php';
                             </tr>
                             <tr>
                                 <th rowspan="2" style="width: 25%; vertical-align: middle;">Réalisations professionnelles</th>
-                                <th style="width: 12.5%; height: 150px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 100px;">Gérer le patrimoine informatique</span>
+                                <th style="width: 12.5%; height: 180px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 120px; margin-left: 15px;">Gérer le patrimoine informatique</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 160px;">Répondre aux incidents et aux demandes d'assistance</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 180px; margin-left: 15px;">Répondre aux incidents et aux demandes d'assistance</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 140px;">Développer la présence en ligne de l'organisation</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 160px; margin-left: 15px;">Développer la présence en ligne de l'organisation</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 100px;">Travailler en mode projet</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 120px; margin-left: 15px;">Travailler en mode projet</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 140px;">Mettre à disposition des utilisateurs un service informatique</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 180px; margin-left: 15px;">Mettre à disposition un service informatique</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px; white-space: nowrap;">
-                                    <span style="display: inline-block; width: 120px;">Organiser son développement professionnel</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span style="display: inline-block; width: 140px; margin-left: 15px;">Organiser son développement professionnel</span>
                                 </th>
                             </tr>
                         </thead>

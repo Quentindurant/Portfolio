@@ -25,29 +25,29 @@ include 'partials/header.php';
                             </tr>
                             <tr>
                                 <th rowspan="2" style="width: 25%; vertical-align: middle;">Réalisations professionnelles</th>
-                                <th style="width: 12.5%; height: 100px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                <th style="width: 12.5%; height: 120px; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
                                     <span>Gérer le patrimoine informatique</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
                                     <span>Répondre aux incidents et aux demandes d'assistance</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
                                     <span>Développer la présence en ligne de l'organisation</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
                                     <span>Travailler en mode projet</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
-                                    <span>Mettre à disposition des utilisateurs un service informatique</span>
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
+                                    <span>Mettre à disposition un service informatique</span>
                                 </th>
-                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 10px;">
+                                <th style="width: 12.5%; vertical-align: bottom; transform: rotate(-90deg); transform-origin: bottom left; padding-bottom: 15px; white-space: nowrap;">
                                     <span>Organiser son développement professionnel</span>
                                 </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr class="bg-dark">
-                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisation en cours de formation</td>
+                                <td colspan="7" class="font-weight-bold text-white" style="background-color: rgba(172, 43, 43, 0.5);">Réalisation en cours de formation</td>
                             </tr>
                             <tr>
                                 <td>Portfolio</td>
@@ -59,7 +59,7 @@ include 'partials/header.php';
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                             <tr class="bg-dark">
-                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de première année</td>
+                                <td colspan="7" class="font-weight-bold text-white" style="background-color: rgba(172, 43, 43, 0.5);">Réalisations en milieu professionnel en cours de première année</td>
                             </tr>
                             <tr>
                                 <td>Click'n Eat</td>
@@ -71,7 +71,7 @@ include 'partials/header.php';
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                             <tr class="bg-dark">
-                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de seconde année</td>
+                                <td colspan="7" class="font-weight-bold text-white" style="background-color: rgba(172, 43, 43, 0.5);">Réalisations en milieu professionnel en cours de seconde année</td>
                             </tr>
                             <tr>
                                 <td>TELORA</td>

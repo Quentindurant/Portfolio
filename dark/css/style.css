@@ -909,118 +909,135 @@ body.light hr.separator {
 /* Slideshow */
 
 .portfolio .slideshow {
-  position: fixed;
-  background: rgba(0,0,0,0.85);
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: 1111;
-  opacity: 0;
-  visibility: hidden;
-  overflow: hidden;
-  -webkit-perspective: 1000px;
-  perspective: 1000px;
-  -webkit-transition: opacity 0.5s, visibility 0s 0.5s;
-  transition: opacity 0.5s, visibility 0s 0.5s;
-  text-align: left;
+    overflow-y: auto;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.85);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
 
-.portfolio .slideshow-open .slideshow {
-  opacity: 1;
-  visibility: visible;
-  -webkit-transition: opacity 0.5s;
-  transition: opacity 0.5s;
+.portfolio .slideshow > ul {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    position: absolute;
 }
 
-.portfolio .slideshow ul {
-  width: 100%;
-  height: 100%;
-  -webkit-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-  -webkit-transform: translate3d(0,0,150px);
-  transform: translate3d(0,0,150px);
-  -webkit-transition: -webkit-transform 0.5s;
-  transition: transform 0.5s;
-}
-
-.portfolio .slideshow ul.animatable > li {
-  -webkit-transition: -webkit-transform 0.5s;
-  transition: transform 0.5s;
-}
-
-.portfolio .slideshow-open .slideshow ul {
-  -webkit-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
-}
-
-.portfolio .slideshow ul > li {
-  width: 660px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -280px 0 0 -330px;
-  visibility: hidden;
-}
-
-.portfolio .slideshow ul > li.show {
-  visibility: visible;
-}
-
-.portfolio .slideshow ul > li:after {
-  content: '';
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background: rgba(0,0,0,0.7);
-  -webkit-transition: opacity 0.3s;
-  transition: opacity 0.3s;
-  z-index: 111;
-  border-radius: 10px;
-}
-
-.portfolio .slideshow ul > li.current:after {
-  visibility: hidden;
-  opacity: 0;
-  -webkit-transition: opacity 0.3s, visibility 0s 0.3s;
-  transition: opacity 0.3s, visibility 0s 0.3s;
+.portfolio .slideshow > ul > li {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5vh;
 }
 
 .portfolio .slideshow figure {
-  width: 100%;
-  height: 100%;
-  background: #252525;
-  padding: 30px;
-  overflow: auto;
-  border-radius: 10px;
+    padding: 20px;
+    max-width: 85%;
+    margin: 0 auto;
+    background-color: #252525;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    max-height: 85vh;
+    overflow-y: auto;
+    position: relative;
+}
+
+.portfolio .slideshow figcaption h3 {
+    color: #fff !important;
+    font-size: 22px !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 0;
+}
+
+.portfolio .slideshow h5 {
+    font-weight: 600;
+    color: #fff;
+    border-bottom: 1px solid #444;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.portfolio .slideshow h5 i {
+    color: #ff5722;
+    margin-right: 8px;
+}
+
+.schema-container {
+    border-radius: 8px;
+    border: 1px solid #444;
+    background-color: #1e1e1e;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.schema-container ul {
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.schema-container li {
+    margin-bottom: 8px;
+}
+
+.portfolio .slideshow p.text-left {
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.portfolio .slideshow nav span.nav-close {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    z-index: 1000;
+}
+
+.portfolio .slideshow .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.portfolio .slideshow .col-12,
+.portfolio .slideshow .col-sm-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.portfolio .slideshow .project-label {
+    font-weight: 500;
+    color: #ccc;
+}
+
+.portfolio .slideshow .uppercase {
+    color: #fff;
 }
 
 .portfolio .slideshow a {
-  text-decoration: underline;
+    color: #ff5722;
+    text-decoration: none;
+    transition: color 0.3s;
 }
 
-.portfolio .slideshow figcaption {
-  margin-bottom: 15px;
+.portfolio .slideshow a:hover {
+    color: #fff;
 }
 
-.portfolio .slideshow figcaption h3 {
-  color: #fff;
-  font-size: 22px;
-  text-transform: uppercase;
-  font-weight: 600;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.portfolio .slideshow figcaption h3 {
-  color: #fff !important;
-  font-size: 22px !important;
-  text-transform: uppercase;
-  font-weight: 600;
-  margin-bottom: 20px;
-  text-align: center;
+.portfolio .slideshow figcaption h3:nth-child(1) {
+    color: #fff !important;
+    font-size: 22px !important;
 }
 
 /* Embedded Videos */
@@ -1845,122 +1862,4 @@ body.light hr.separator {
 .slideshow figure img {
     max-width: 100%;
     height: auto;
-}
-
-/* Styles pour les panneaux de projets */
-.portfolio .slideshow {
-    overflow-y: auto;
-}
-
-.portfolio .slideshow > ul > li {
-    position: absolute;
-    top: 35%;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-}
-
-.portfolio .slideshow figure {
-    padding: 20px;
-    max-width: 85%;
-    margin: 0 auto;
-    background-color: #252525;
-    border-radius: 10px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-    max-height: 80vh;
-    overflow-y: auto;
-}
-
-.portfolio .slideshow figcaption h3 {
-    color: #fff !important;
-    font-size: 22px !important;
-    text-transform: uppercase;
-    font-weight: 600;
-    margin-bottom: 20px;
-    text-align: center;
-    padding: 0;
-}
-
-.portfolio .slideshow h5 {
-    font-weight: 600;
-    color: #fff;
-    border-bottom: 1px solid #444;
-    padding-bottom: 10px;
-    margin-bottom: 15px;
-    text-align: left;
-    font-size: 16px;
-}
-
-.portfolio .slideshow h5 i {
-    color: #ff5722;
-    margin-right: 8px;
-}
-
-.schema-container {
-    border-radius: 8px;
-    border: 1px solid #444;
-    background-color: #1e1e1e;
-    padding: 15px;
-    margin-bottom: 20px;
-}
-
-.schema-container ul {
-    padding-left: 20px;
-    margin-bottom: 0;
-}
-
-.schema-container li {
-    margin-bottom: 8px;
-}
-
-.portfolio .slideshow p.text-left {
-    line-height: 1.7;
-    margin-bottom: 20px;
-}
-
-/* Correction pour la navigation */
-.portfolio .slideshow nav span.nav-close {
-    position: fixed;
-    top: 30px;
-    right: 30px;
-    z-index: 1000;
-}
-
-/* Correction pour les titres et l'alignement */
-.portfolio .slideshow .row {
-    margin-left: 0;
-    margin-right: 0;
-}
-
-.portfolio .slideshow .col-12,
-.portfolio .slideshow .col-sm-6 {
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.portfolio .slideshow .project-label {
-    font-weight: 500;
-    color: #ccc;
-}
-
-.portfolio .slideshow .uppercase {
-    color: #fff;
-}
-
-.portfolio .slideshow a {
-    color: #ff5722;
-    text-decoration: none;
-    transition: color 0.3s;
-}
-
-.portfolio .slideshow a:hover {
-    color: #fff;
-}
-
-.portfolio .slideshow figcaption h3:nth-child(1) {
-    color: #fff !important;
-    font-size: 22px !important;
 }

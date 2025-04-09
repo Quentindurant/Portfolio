@@ -17,19 +17,11 @@
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/fm.revealator.jquery.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/custom.css" rel="stylesheet">
 
     <!-- CSS Skin File -->
     <link href="css/skins/yellow.css" rel="stylesheet">
-</head>
-
-<body class="portfolio">
-<!-- Header Starts -->
-
-<?php include('partials/header.php'); ?>
-
-<!-- Header Ends -->
-    <!-- Style pour les images de projets -->
+    
+    <!-- Style pour les images de projets et les panneaux -->
     <style>
         .grid figure img {
             width: 100%;
@@ -42,8 +34,73 @@
             max-width: 100%;
             height: auto;
         }
+        
+        /* Styles pour les panneaux de projets */
+        .portfolio .slideshow {
+            overflow-y: auto;
+        }
+        
+        .portfolio .slideshow figure {
+            padding: 20px;
+            max-width: 85%;
+            margin: 0 auto;
+            background-color: #252525;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .portfolio .slideshow h5 {
+            font-weight: 600;
+            color: #fff;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        
+        .portfolio .slideshow h5 i {
+            color: #ff5722;
+            margin-right: 8px;
+        }
+        
+        .schema-container {
+            border-radius: 8px;
+            border: 1px solid #444;
+            background-color: #1e1e1e;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .schema-container ul {
+            padding-left: 20px;
+            margin-bottom: 0;
+        }
+        
+        .schema-container li {
+            margin-bottom: 8px;
+        }
+        
+        .portfolio .slideshow p.text-left {
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+        
+        /* Correction pour la navigation */
+        .portfolio .slideshow nav span.nav-close {
+            position: fixed;
+            top: 30px;
+            right: 30px;
+            z-index: 1000;
+        }
     </style>
-    
+</head>
+
+<body class="portfolio">
+<!-- Header Starts -->
+
+<?php include('partials/header.php'); ?>
+
+<!-- Header Ends -->
     <!-- SECTION EXERCICES -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
         <h1>Exercices <span>ÉCOLE</span></h1>

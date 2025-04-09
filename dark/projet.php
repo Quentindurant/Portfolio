@@ -10,7 +10,7 @@
 <!-- Header Ends -->
     <!-- SECTION ECOLE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
-        <h1>Projet <span>ECOLE</span> - <span style="color: green">E5</span> <span style="color: red">E6</span></h1>
+        <h1>Projets <span>ECOLE</span></h1>
         <span class="title-bg">School</span>
     </section>
 
@@ -22,38 +22,38 @@
                     <!-- Portfolio Item Starts -->
                     <li>
                         <figure>
-                            <img src="image/ScreenShot_calculette_immo.png" alt="calculette immo" style ="border: 2px solid green;"/>
-                            <div style="background-color: green;"><span>Calculatrice Immobilier</span></div>
+                            <img src="image/ScreenShot_calculette_immo.png" alt="calculette immo"/>
+                            <div><span>Calculatrice Immobilier</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/newsletter.png" alt="Newsletter" style ="border: 2px solid green;" />
-                            <div style="background-color: green;"><span>Newsletter</span></div>
+                            <img src="image/newsletter.png" alt="Newsletter"/>
+                            <div><span>Newsletter</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/apple.png" alt="Apple" style ="border: 2px solid green;" />
-                            <div style="background-color: green;"><span>Site d'Apple</span></div>
+                            <img src="image/apple.png" alt="Apple"/>
+                            <div><span>Site d'Apple</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/WelcomeFormation.png" alt="Welcome Formation" style ="border: 2px solid red;" />
-                            <div class="E6"><span>Welcome Training</span></div>
+                            <img src="image/WelcomeFormation.png" alt="Welcome Formation"/>
+                            <div><span>Welcome Training</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/mobile_resized_895x552.png" alt="Mobile"  style ="border: 2px solid red;"/>
-                            <div class="E6"><span>Projet Mobile</span></div>
+                            <img src="image/mobile_resized_895x552.png" alt="Mobile"/>
+                            <div><span>Projet Mobile</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/laravel_resized_895x552.png" alt="Laravel" style ="border: 2px solid red;" />
-                            <div class="E6"><span>Laravel</span></div>
+                            <img src="image/laravel_resized_895x552.png" alt="Laravel"/>
+                            <div><span>Laravel</span></div>
                         </figure>
                     </li>
                 </ul>
@@ -239,7 +239,7 @@
 
     <!-- SECTION ENTREPRISE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
-        <h1>Projet <span>ENTREPRISE</span></h1>
+        <h1>Projets <span>ENTREPRISE</span></h1>
         <span class="title-bg">Works</span>
     </section>
 
@@ -249,13 +249,13 @@
                 <ul class="row grid">
                     <li>
                         <figure>
-                            <img src="image/ldap.png" alt="LDAP" style ="border: 2px solid red;" />
+                            <img src="image/ldap.png" alt="LDAP" />
                             <div><span>LDAP</span></div>
                         </figure>
                     </li>
                     <li>
                         <figure>
-                            <img src="image/delytech.png" alt="Delytech" style ="border: 2px solid red;" />
+                            <img src="image/delytech.png" alt="Delytech" />
                             <div><span>Delytech</span></div>
                         </figure>
                     </li>

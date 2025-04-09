@@ -51,7 +51,7 @@
         <li class="icon-box <?= ($current_page == 'projet.php') ? 'active' : '' ?>">
             <i class="fa fa-briefcase"></i>
             <a href="projet.php">
-                <h2>E5/E6</h2>
+                <h2>Projets</h2>
             </a>
         </li>
     </ul>
@@ -74,10 +74,10 @@
                     <a href="veille.php"><i class="fa fa-folder-open"></i><span>Veille</span></a>
                 </li>
                 <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-                    <a href="grille.php"><i class="fa fa-envelope-open"></i><span>Compétence</span></a>
+                    <a href="grille.php"><i class="fa fa-envelope-open"></i><span>Compétences</span></a>
                 </li>
                 <li class="<?= ($current_page == 'projet.php') ? 'active' : '' ?>">
-                    <a href="projet.php"><i class="fa fa-comments"></i><span>E5 / E6</span></a>
+                    <a href="projet.php"><i class="fa fa-comments"></i><span>Projets</span></a>
                 </li>
             </ul>
         </div>

@@ -49,7 +49,6 @@
             display: flex;
             align-items: flex-start;
             justify-content: center;
-            transform: translateY(-50%);
         }
         
         .portfolio .slideshow figure {

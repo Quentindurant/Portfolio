@@ -488,7 +488,7 @@ body.light hr.separator {
     position: fixed;
     right: 30px;
     bottom: 0;
-    z-index: 9999; /* Augmenté pour être au-dessus de tout */
+    z-index: 9999; /* Valeur élevée pour être au-dessus des sections */
     display: flex;
     align-items: center;
     height: calc(100vh - 200px);
@@ -496,10 +496,7 @@ body.light hr.separator {
     opacity: 1;
     transition: opacity 0.3s;
     -webkit-transition: opacity 0.3s;
-  }
-
-  .header.hide-header {
-    z-index: 0 !important;
+    pointer-events: auto !important; /* Forcer les événements de pointeur */
   }
 
   .header ul.icon-menu {
@@ -1940,4 +1937,35 @@ body.light hr.separator {
 .title-section .title-bg {
   position: relative !important;
   z-index: 0 !important;
+}
+
+/* Fix pour le header */
+#navbar-collapse-toggle {
+  position: fixed !important;
+  z-index: 9999 !important; /* Valeur élevée pour être au-dessus de tout */
+  pointer-events: auto !important;
+}
+
+.icon-menu {
+  z-index: 9999 !important;
+  pointer-events: auto !important;
+}
+
+.icon-menu li {
+  z-index: 9999 !important;
+  pointer-events: auto !important;
+}
+
+.icon-menu li a {
+  z-index: 9999 !important;
+  pointer-events: auto !important;
+}
+
+/* Fix pour le slideshow */
+.portfolio .slideshow {
+  pointer-events: none !important; /* Désactive les événements de pointeur quand le slideshow est fermé */
+}
+
+.portfolio .slideshow-open .slideshow {
+  pointer-events: auto !important; /* Réactive les événements de pointeur quand le slideshow est ouvert */
 }

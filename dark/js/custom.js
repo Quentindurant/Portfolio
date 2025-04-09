@@ -50,14 +50,45 @@
 		/*  SHOW HEADER WHEN PORTFOLIO SLIDESHOW CLOSED
         /* ----------------------------------------------------------- */
 
+		// S'assurer que le header est toujours au-dessus et cliquable
+		$("#navbar-collapse-toggle").css({
+			"z-index": "999999",
+			"pointer-events": "auto"
+		});
+		$(".icon-menu").css({
+			"z-index": "999999",
+			"pointer-events": "auto"
+		});
+		$(".icon-menu li").css({
+			"z-index": "999999",
+			"pointer-events": "auto"
+		});
+		$(".icon-menu li a").css({
+			"z-index": "999999",
+			"pointer-events": "auto"
+		});
+
 		$(".nav-close").on('click', function() {
 			$("#navbar-collapse-toggle").removeClass('hide-header');
 			// Réinitialiser le z-index et les événements pour tous les éléments du menu
 			setTimeout(function() {
-				$(".icon-menu li").css("z-index", "");
-				$(".icon-menu li a").css("pointer-events", "");
 				// S'assurer que le header est au-dessus de tout
-				$("#navbar-collapse-toggle").css("z-index", "9999");
+				$("#navbar-collapse-toggle").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu li").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu li a").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
 				// S'assurer que les sections ont un z-index inférieur
 				$(".title-section").css("z-index", "1");
 				$(".main-content").css("z-index", "2");
@@ -71,10 +102,23 @@
 				$("#navbar-collapse-toggle").removeClass('hide-header');
 				// Réinitialiser le z-index et les événements pour tous les éléments du menu
 				setTimeout(function() {
-					$(".icon-menu li").css("z-index", "");
-					$(".icon-menu li a").css("pointer-events", "");
 					// S'assurer que le header est au-dessus de tout
-					$("#navbar-collapse-toggle").css("z-index", "9999");
+					$("#navbar-collapse-toggle").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li a").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
 					// S'assurer que les sections ont un z-index inférieur
 					$(".title-section").css("z-index", "1");
 					$(".main-content").css("z-index", "2");
@@ -86,10 +130,23 @@
 				$("#navbar-collapse-toggle").removeClass('hide-header');
 				// Réinitialiser le z-index et les événements pour tous les éléments du menu
 				setTimeout(function() {
-					$(".icon-menu li").css("z-index", "");
-					$(".icon-menu li a").css("pointer-events", "");
 					// S'assurer que le header est au-dessus de tout
-					$("#navbar-collapse-toggle").css("z-index", "9999");
+					$("#navbar-collapse-toggle").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li a").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
 					// S'assurer que les sections ont un z-index inférieur
 					$(".title-section").css("z-index", "1");
 					$(".main-content").css("z-index", "2");
@@ -104,10 +161,23 @@
 				$("#navbar-collapse-toggle").removeClass('hide-header');
 				// Réinitialiser le z-index et les événements pour tous les éléments du menu
 				setTimeout(function() {
-					$(".icon-menu li").css("z-index", "");
-					$(".icon-menu li a").css("pointer-events", "");
 					// S'assurer que le header est au-dessus de tout
-					$("#navbar-collapse-toggle").css("z-index", "9999");
+					$("#navbar-collapse-toggle").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li a").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
 					// S'assurer que les sections ont un z-index inférieur
 					$(".title-section").css("z-index", "1");
 					$(".main-content").css("z-index", "2");
@@ -119,10 +189,23 @@
 				$("#navbar-collapse-toggle").removeClass('hide-header');
 				// Réinitialiser le z-index et les événements pour tous les éléments du menu
 				setTimeout(function() {
-					$(".icon-menu li").css("z-index", "");
-					$(".icon-menu li a").css("pointer-events", "");
 					// S'assurer que le header est au-dessus de tout
-					$("#navbar-collapse-toggle").css("z-index", "9999");
+					$("#navbar-collapse-toggle").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li a").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
 					// S'assurer que les sections ont un z-index inférieur
 					$(".title-section").css("z-index", "1");
 					$(".main-content").css("z-index", "2");
@@ -186,10 +269,23 @@
 			$("#navbar-collapse-toggle").removeClass('hide-header');
 			// Réinitialiser le z-index et les événements pour tous les éléments du menu
 			setTimeout(function() {
-				$(".icon-menu li").css("z-index", "");
-				$(".icon-menu li a").css("pointer-events", "");
 				// S'assurer que le header est au-dessus de tout
-				$("#navbar-collapse-toggle").css("z-index", "9999");
+				$("#navbar-collapse-toggle").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu li").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
+				$(".icon-menu li a").css({
+					"z-index": "999999",
+					"pointer-events": "auto"
+				});
 				// S'assurer que les sections ont un z-index inférieur
 				$(".title-section").css("z-index", "1");
 				$(".main-content").css("z-index", "2");
@@ -206,10 +302,23 @@
 				$("#navbar-collapse-toggle").removeClass('hide-header');
 				// Réinitialiser le z-index et les événements pour tous les éléments du menu
 				setTimeout(function() {
-					$(".icon-menu li").css("z-index", "");
-					$(".icon-menu li a").css("pointer-events", "");
 					// S'assurer que le header est au-dessus de tout
-					$("#navbar-collapse-toggle").css("z-index", "9999");
+					$("#navbar-collapse-toggle").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
+					$(".icon-menu li a").css({
+						"z-index": "999999",
+						"pointer-events": "auto"
+					});
 					// S'assurer que les sections ont un z-index inférieur
 					$(".title-section").css("z-index", "1");
 					$(".main-content").css("z-index", "2");

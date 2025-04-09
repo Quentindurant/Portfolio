@@ -53,6 +53,24 @@
                             <div><span>Site d'Apple</span></div>
                         </figure>
                     </li>
+                    <li>
+                        <figure>
+                            <img src="image/meteo.png" alt="Météo React"/>
+                            <div><span>Météo React</span></div>
+                        </figure>
+                    </li>
+                    <li>
+                        <figure>
+                            <img src="image/matrice.png" alt="Matrice JS"/>
+                            <div><span>Matrice JS</span></div>
+                        </figure>
+                    </li>
+                    <li>
+                        <figure>
+                            <img src="image/admin_template.png" alt="Template Admin"/>
+                            <div><span>Template Admin</span></div>
+                        </figure>
+                    </li>
                 </ul>
             </section>
             <section class="slideshow">
@@ -137,6 +155,90 @@
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
                             <img src="image/apple.png" alt="Apple" />
+                            <!-- Main Project Content Ends -->
+                        </figure>
+                    </li>
+                    <!-- Portfolio Item Detail Ends -->
+                    <!-- Portfolio Item Detail Starts -->
+                    <li>
+                        <figure>
+                            <!-- Project Details Starts -->
+                            <figcaption>
+                                <h3>Météo React</h3>
+                                <div class="row open-sans-font">
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Météo React</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">React, JavaScript, HTML, CSS</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/meteo-react/" target="_blank">Météo React</a></span>
+                                    </div>
+                                </div>
+                            </figcaption>
+                            <!-- Project Details Ends -->
+                            <!-- Main Project Content Starts -->
+                            <img src="image/meteo-react.png" alt="Météo React" />
+                            <!-- Main Project Content Ends -->
+                        </figure>
+                    </li>
+                    <!-- Portfolio Item Detail Ends -->
+                    <!-- Portfolio Item Detail Starts -->
+                    <li>
+                        <figure>
+                            <!-- Project Details Starts -->
+                            <figcaption>
+                                <h3>Matrice JS</h3>
+                                <div class="row open-sans-font">
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Matrice JS</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">JavaScript, Node.js</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/Quentindurant/matrice" target="_blank">Matrice JS</a></span>
+                                    </div>
+                                </div>
+                            </figcaption>
+                            <!-- Project Details Ends -->
+                            <!-- Main Project Content Starts -->
+                            <img src="image/matrice.png" alt="Matrice JS" />
+                            <!-- Main Project Content Ends -->
+                        </figure>
+                    </li>
+                    <!-- Portfolio Item Detail Ends -->
+                    <!-- Portfolio Item Detail Starts -->
+                    <li>
+                        <figure>
+                            <!-- Project Details Starts -->
+                            <figcaption>
+                                <h3>Template Admin</h3>
+                                <div class="row open-sans-font">
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Template Admin</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, JavaScript, Bootstrap</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Template Admin</a></span>
+                                    </div>
+                                </div>
+                            </figcaption>
+                            <!-- Project Details Ends -->
+                            <!-- Main Project Content Starts -->
+                            <img src="image/admin-template.png" alt="Template Admin" />
                             <!-- Main Project Content Ends -->
                         </figure>
                     </li>

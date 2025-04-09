@@ -152,6 +152,15 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="http://54.36.189.50/GCAdmin/admin/V1_admin.php" target="_blank">LDAP</a></span>
                                     </div>
                                 </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Système d'authentification LDAP pour la gestion des utilisateurs et des accès. Ce projet permet de centraliser la gestion des identités et des autorisations pour différentes applications de l'entreprise, avec une interface d'administration sécurisée.
+                                        </p>
+                                    </div>
+                                </div>
                             </figcaption>
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
@@ -180,6 +189,15 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>
                                     </div>
                                 </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Plateforme de livraison de repas pour les entreprises locales. Ce projet permet aux entreprises de commander des repas pour leurs employés auprès de restaurants partenaires, avec un système de gestion des commandes, de facturation et de livraison.
+                                        </p>
+                                    </div>
+                                </div>
                             </figcaption>
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
@@ -205,7 +223,32 @@
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Flutter, Dart, Firebase, Google Maps</span>
                                     </div>
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">YapluCa</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/QuentinDurant/yapluCa" target="_blank">YapluCa</a></span>
+                                    </div>
+                                </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Application mobile pour la gestion de bornes de recharge portables pour téléphones. YapluCa permet aux utilisateurs de localiser des bornes disponibles et aux partenaires de suivre leur utilisation. Développée avec Flutter et Firebase, l'application offre une interface minimaliste et intuitive avec des fonctionnalités de cartographie via Google Maps.
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- Schéma explicatif -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Caractéristiques principales</h5>
+                                        <div class="schema-container">
+                                            <ul>
+                                                <li>Localisation des bornes de recharge en temps réel</li>
+                                                <li>Interface utilisateur intuitive aux couleurs #18cb96 (vert vif), blanc et noir</li>
+                                                <li>Notifications pour rappeler de rendre les batteries</li>
+                                                <li>Lecteur QR code intégré pour l'emprunt rapide</li>
+                                                <li>Profil utilisateur avec parrainage et gestion des moyens de paiement</li>
+                                                <li>Panneau d'administration pour la gestion des bornes et statistiques</li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </figcaption>

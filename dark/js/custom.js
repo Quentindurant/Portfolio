@@ -56,6 +56,14 @@
 			setTimeout(function() {
 				$(".icon-menu li").css("z-index", "");
 				$(".icon-menu li a").css("pointer-events", "");
+				// S'assurer que le header est au-dessus de tout
+				$("#navbar-collapse-toggle").css("z-index", "9999");
+				// S'assurer que les sections ont un z-index inférieur
+				$(".title-section").css("z-index", "1");
+				$(".main-content").css("z-index", "2");
+				// Cibler spécifiquement la section PROJETS ENTREPRISE
+				$(".title-section h1").css("z-index", "1");
+				$(".title-section .title-bg").css("z-index", "0");
 			}, 100);
 		});
 		$(".nav-prev").on('click', function() {
@@ -65,6 +73,29 @@
 				setTimeout(function() {
 					$(".icon-menu li").css("z-index", "");
 					$(".icon-menu li a").css("pointer-events", "");
+					// S'assurer que le header est au-dessus de tout
+					$("#navbar-collapse-toggle").css("z-index", "9999");
+					// S'assurer que les sections ont un z-index inférieur
+					$(".title-section").css("z-index", "1");
+					$(".main-content").css("z-index", "2");
+					// Cibler spécifiquement la section PROJETS ENTREPRISE
+					$(".title-section h1").css("z-index", "1");
+					$(".title-section .title-bg").css("z-index", "0");
+				}, 100);
+			} else {
+				$("#navbar-collapse-toggle").removeClass('hide-header');
+				// Réinitialiser le z-index et les événements pour tous les éléments du menu
+				setTimeout(function() {
+					$(".icon-menu li").css("z-index", "");
+					$(".icon-menu li a").css("pointer-events", "");
+					// S'assurer que le header est au-dessus de tout
+					$("#navbar-collapse-toggle").css("z-index", "9999");
+					// S'assurer que les sections ont un z-index inférieur
+					$(".title-section").css("z-index", "1");
+					$(".main-content").css("z-index", "2");
+					// Cibler spécifiquement la section PROJETS ENTREPRISE
+					$(".title-section h1").css("z-index", "1");
+					$(".title-section .title-bg").css("z-index", "0");
 				}, 100);
 			}
 		});
@@ -75,6 +106,29 @@
 				setTimeout(function() {
 					$(".icon-menu li").css("z-index", "");
 					$(".icon-menu li a").css("pointer-events", "");
+					// S'assurer que le header est au-dessus de tout
+					$("#navbar-collapse-toggle").css("z-index", "9999");
+					// S'assurer que les sections ont un z-index inférieur
+					$(".title-section").css("z-index", "1");
+					$(".main-content").css("z-index", "2");
+					// Cibler spécifiquement la section PROJETS ENTREPRISE
+					$(".title-section h1").css("z-index", "1");
+					$(".title-section .title-bg").css("z-index", "0");
+				}, 100);
+			} else {
+				$("#navbar-collapse-toggle").removeClass('hide-header');
+				// Réinitialiser le z-index et les événements pour tous les éléments du menu
+				setTimeout(function() {
+					$(".icon-menu li").css("z-index", "");
+					$(".icon-menu li a").css("pointer-events", "");
+					// S'assurer que le header est au-dessus de tout
+					$("#navbar-collapse-toggle").css("z-index", "9999");
+					// S'assurer que les sections ont un z-index inférieur
+					$(".title-section").css("z-index", "1");
+					$(".main-content").css("z-index", "2");
+					// Cibler spécifiquement la section PROJETS ENTREPRISE
+					$(".title-section h1").css("z-index", "1");
+					$(".title-section .title-bg").css("z-index", "0");
 				}, 100);
 			}
 		});
@@ -134,6 +188,11 @@
 			setTimeout(function() {
 				$(".icon-menu li").css("z-index", "");
 				$(".icon-menu li a").css("pointer-events", "");
+				// S'assurer que le header est au-dessus de tout
+				$("#navbar-collapse-toggle").css("z-index", "9999");
+				// S'assurer que les sections ont un z-index inférieur
+				$(".title-section").css("z-index", "1");
+				$(".main-content").css("z-index", "2");
 			}, 100);
 		}
 		if ((e.keyCode === 37) || (e.keyCode === 39)) {
@@ -141,5 +200,25 @@
 		}
 	});
 
+	$(document).keyup(function(e) {
+		if (e.key === "Escape") { // escape key maps to keycode `27`
+			if ($('.slideshow-open').length) {
+				$("#navbar-collapse-toggle").removeClass('hide-header');
+				// Réinitialiser le z-index et les événements pour tous les éléments du menu
+				setTimeout(function() {
+					$(".icon-menu li").css("z-index", "");
+					$(".icon-menu li a").css("pointer-events", "");
+					// S'assurer que le header est au-dessus de tout
+					$("#navbar-collapse-toggle").css("z-index", "9999");
+					// S'assurer que les sections ont un z-index inférieur
+					$(".title-section").css("z-index", "1");
+					$(".main-content").css("z-index", "2");
+					// Cibler spécifiquement la section PROJETS ENTREPRISE
+					$(".title-section h1").css("z-index", "1");
+					$(".title-section .title-bg").css("z-index", "0");
+				}, 100);
+			}
+		}
+	});
 
 })(jQuery);

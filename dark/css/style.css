@@ -488,7 +488,7 @@ body.light hr.separator {
     position: fixed;
     right: 30px;
     bottom: 0;
-    z-index: 3;
+    z-index: 9999; /* Augmenté pour être au-dessus de tout */
     display: flex;
     align-items: center;
     height: calc(100vh - 200px);
@@ -1795,6 +1795,8 @@ body.light hr.separator {
   }
 
   .title-section {
+    position: relative;
+    z-index: 1; /* Valeur faible pour rester sous le header */
     padding: 16px 25px 14px;
     background: #252525;
     border-bottom: 1px solid #333;
@@ -1904,6 +1906,8 @@ body.light hr.separator {
   }
 
   .blog .main-content {
+    position: relative;
+    z-index: 2; /* Valeur faible pour rester sous le header */
     padding-bottom: 55px;
   }
 
@@ -1914,4 +1918,26 @@ body.light hr.separator {
   .separator.mt-1 {
     margin-top: 35px !important;
   }
+}
+
+/* Sections communes - z-index pour éviter la superposition sur le header */
+.title-section {
+  position: relative !important;
+  z-index: 1 !important; /* Valeur faible pour rester sous le header */
+}
+
+.main-content {
+  position: relative !important;
+  z-index: 2 !important; /* Valeur faible pour rester sous le header */
+}
+
+/* Correction spécifique pour la section PROJETS ENTREPRISE */
+.title-section h1 {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+.title-section .title-bg {
+  position: relative !important;
+  z-index: 0 !important;
 }

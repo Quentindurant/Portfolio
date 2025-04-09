@@ -42,14 +42,14 @@
         
         .portfolio .slideshow > ul > li {
             position: absolute;
-            top: 0;
+            top: 35%;
             left: 0;
             width: 100%;
             height: 100%;
             display: flex;
             align-items: flex-start;
             justify-content: center;
-            padding-top: 100px;
+            transform: translateY(-50%);
         }
         
         .portfolio .slideshow figure {

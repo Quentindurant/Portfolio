@@ -43,7 +43,7 @@
             </a>
         </li>
         <li class="icon-box <?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-            <i class="fa fa-briefcase"></i>
+            <i class="fa fa-card-checklist"></i>
             <a href="grille.php">
                 <h2>Grille</h2>
             </a>
@@ -52,6 +52,12 @@
             <i class="fa fa-briefcase"></i>
             <a href="projet.php">
                 <h2>Projets</h2>
+            </a>
+        </li>
+        <li class="icon-box <?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
+            <i class="fa fa-clipboard2-check-fill"></i>
+            <a href="exercice.php">
+                <h2>Exercices</h2>
             </a>
         </li>
     </ul>
@@ -78,6 +84,12 @@
                 </li>
                 <li class="<?= ($current_page == 'projet.php') ? 'active' : '' ?>">
                     <a href="projet.php"><i class="fa fa-comments"></i><span>Projets</span></a>
+                </li>
+                <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>">
+                    <a href="grille.php"><i class="fa fa-comments"></i><span>Grille</span></a>
+                </li>
+                <li class="<?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
+                    <a href="exercice.php"><i class="fa fa-comments"></i><span>Exercices</span></a>
                 </li>
             </ul>
         </div>

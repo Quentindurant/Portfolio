@@ -242,7 +242,7 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/logowhite.png" alt="YapluCa" />
+                            <img src="image/logo.png" alt="YapluCa" />
                             <div><span>YapluCa</span></div>
                         </figure>
                     </li>

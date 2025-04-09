@@ -41,7 +41,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Welcome Formation</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Welcome Formation</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Projet </span>: <span class="ft-wt-600 uppercase">Welcome Formation</span>
@@ -54,6 +54,30 @@
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/Welcome_Formation/" target="_blank">Welcome Formation</a></span>
+                                    </div>
+                                </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Plateforme de gestion de formations professionnelles permettant aux utilisateurs de s'inscrire à des sessions de formation, de consulter le catalogue des cours disponibles et de suivre leur progression. Le système comprend également un espace administrateur pour la gestion des formations et des participants.
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- Schéma explicatif -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Fonctionnalités principales</h5>
+                                        <div class="schema-container">
+                                            <ul>
+                                                <li>Catalogue de formations avec filtres et recherche</li>
+                                                <li>Système d'inscription et de paiement en ligne</li>
+                                                <li>Espace personnel pour suivre sa progression</li>
+                                                <li>Tableau de bord administrateur pour la gestion des formations</li>
+                                                <li>Génération de certificats et d'attestations</li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </figcaption>
@@ -69,7 +93,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Click'n Eat</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Click'n Eat</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Click'n Eat</span>
@@ -82,6 +106,31 @@
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Click'n Eat</a></span>
+                                    </div>
+                                </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Application web de commande de repas en ligne développée avec Laravel. Click'n Eat permet aux utilisateurs de commander facilement des repas auprès de restaurants partenaires, avec un système de paiement sécurisé et un suivi en temps réel des commandes.
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- Schéma explicatif -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Fonctionnalités principales</h5>
+                                        <div class="schema-container">
+                                            <ul>
+                                                <li>Interface utilisateur intuitive pour la recherche et la commande de repas</li>
+                                                <li>Système de filtrage par type de cuisine, prix et évaluations</li>
+                                                <li>Gestion des comptes utilisateurs et des adresses de livraison</li>
+                                                <li>Panneau d'administration pour les restaurants partenaires</li>
+                                                <li>Système de paiement en ligne sécurisé</li>
+                                                <li>Suivi en temps réel des commandes</li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </figcaption>
@@ -183,7 +232,7 @@
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
                                     </div>
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, PHP, SQL, JS, VPS </span>
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">PHP, Laravel, MySQL, HTML, CSS, JS</span>
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>

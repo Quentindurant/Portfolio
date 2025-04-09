@@ -8,12 +8,39 @@
     background-color: #252525;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    overflow-y: auto;
+    max-height: 80vh;
 }
 
 /* Ajout de scroll pour le contenu */
 .portfolio .slideshow {
     max-height: 90vh;
     overflow-y: auto;
+}
+
+/* Correction pour permettre le défilement */
+.portfolio .slideshow > ul > li {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+    padding: 40px 0;
+}
+
+/* Correction pour la position des boutons de navigation */
+.portfolio .slideshow nav span.nav-prev,
+.portfolio .slideshow nav span.nav-next {
+    position: fixed;
+    z-index: 1000;
+}
+
+.portfolio .slideshow nav span.nav-close {
+    position: fixed;
+    z-index: 1000;
+    top: 30px;
+    right: 30px;
 }
 
 /* Style pour le conteneur de schéma */

@@ -19,4 +19,6 @@ jobs:
             cd ${{ secrets.PROJECT_PATH }}
             sudo chown -R ${{ secrets.SERVER_USERNAME }}:${{ secrets.SERVER_USERNAME }} .
             git config --global --add safe.directory ${{ secrets.PROJECT_PATH }}
+            git stash -u
             git pull origin main
+            git stash pop || true

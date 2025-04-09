@@ -35,6 +35,7 @@
             <section class="grid-wrap">
                 <ul class="row grid">
                     <!-- Portfolio Item Starts -->
+                    <li>
                         <figure>
                             <img src="image/WelcomeFormations.png" alt="Welcome Formations"/>
                             <div><span>Welcome Formation</span></div>

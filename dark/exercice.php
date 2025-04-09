@@ -23,15 +23,15 @@
         }
     </style>
     
-    <!-- SECTION ECOLE -->
+    <!-- SECTION EXERCICES -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
-        <h1>Projets <span>ECOLE</span></h1>
-        <span class="title-bg">School</span>
+        <h1>Exercices <span>ÉCOLE</span></h1>
+        <span class="title-bg">Exercises</span>
     </section>
 
 <section class="main-content text-center revealator-slideup revealator-once revealator-delay1">
     <div id="grid-gallery" class="container grid-gallery">
-        <div id="projet-ecole-anim">
+        <div id="exercice-ecole-anim">
             <section class="grid-wrap">
                 <ul class="row grid">
                     <!-- Portfolio Item Starts -->
@@ -53,12 +53,6 @@
                             <div><span>Site d'Apple</span></div>
                         </figure>
                     </li>
-                    <li>
-                        <figure>
-                            <img src="image/apple.png" alt="Apple"/>
-                            <div><span>Météo React</span></div>
-                        </figure>
-                    </li>
                 </ul>
             </section>
             <section class="slideshow">
@@ -71,7 +65,7 @@
                                 <h3>Calculatrice Immobilier</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Calculatrice Immobilier</span>
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Calculatrice Immobilier</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label"> Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
@@ -99,7 +93,7 @@
                                 <h3>Newsletter</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Projet </span>: <span class="ft-wt-600 uppercase">Newsletter</span>
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Newsletter</span>
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
@@ -127,7 +121,7 @@
                                 <h3>Site Apple</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Projet </span>: <span class="ft-wt-600 uppercase">Site Apple</span>
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Site Apple</span>
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
@@ -143,34 +137,6 @@
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
                             <img src="image/apple.png" alt="Apple" />
-                            <!-- Main Project Content Ends -->
-                        </figure>
-                    </li>
-                    <!-- Portfolio Item Detail Ends -->
-                    <!-- Portfolio Item Detail Starts -->
-                    <li>
-                        <figure>
-                            <!-- Project Details Starts -->
-                            <figcaption>
-                                <h3>Météo React</h3>
-                                <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Météo React</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">React, HTML, CSS, JS</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/meteo-react/" target="_blank">Météo React</a></span>
-                                    </div>
-                                </div>
-                            </figcaption>
-                            <!-- Project Details Ends -->
-                            <!-- Main Project Content Starts -->
-                            <img src="image/meteo-react.png" alt="Météo React" />
                             <!-- Main Project Content Ends -->
                         </figure>
                     </li>

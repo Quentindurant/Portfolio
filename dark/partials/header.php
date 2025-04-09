@@ -43,7 +43,7 @@
             </a>
         </li>
         <li class="icon-box <?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-            <i class="fa fa-card-checklist"></i>
+            <i class="fa fa-table"></i>
             <a href="grille.php">
                 <h2>Grille</h2>
             </a>
@@ -55,7 +55,7 @@
             </a>
         </li>
         <li class="icon-box <?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
-            <i class="fa fa-clipboard2-check-fill"></i>
+            <i class="fa fa-code"></i>
             <a href="exercice.php">
                 <h2>Exercices</h2>
             </a>
@@ -80,16 +80,13 @@
                     <a href="veille.php"><i class="fa fa-folder-open"></i><span>Veille</span></a>
                 </li>
                 <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-                    <a href="grille.php"><i class="fa fa-envelope-open"></i><span>Compétences</span></a>
+                    <a href="grille.php"><i class="fa fa-table"></i><span>Compétences</span></a>
                 </li>
                 <li class="<?= ($current_page == 'projet.php') ? 'active' : '' ?>">
-                    <a href="projet.php"><i class="fa fa-comments"></i><span>Projets</span></a>
-                </li>
-                <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-                    <a href="grille.php"><i class="fa fa-comments"></i><span>Grille</span></a>
+                    <a href="projet.php"><i class="fa fa-briefcase"></i><span>Projets</span></a>
                 </li>
                 <li class="<?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
-                    <a href="exercice.php"><i class="fa fa-comments"></i><span>Exercices</span></a>
+                    <a href="exercice.php"><i class="fa fa-code"></i><span>Exercices</span></a>
                 </li>
             </ul>
         </div>

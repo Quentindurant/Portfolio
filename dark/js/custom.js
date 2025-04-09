@@ -44,6 +44,9 @@
 
 		$(".grid figure").on('click', function() {
 			$("#navbar-collapse-toggle").addClass('hide-header');
+			// S'assurer que tous les liens du header sont cliquables
+			$(".icon-menu li a").css("pointer-events", "auto");
+			$(".icon-menu li").css("z-index", "10");
 		});
 
 		/* ----------------------------------------------------------- */

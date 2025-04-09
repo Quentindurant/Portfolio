@@ -1,0 +1,100 @@
+/* Styles personnalisés pour les panneaux de projets */
+
+/* Augmentation de la taille du panneau */
+.portfolio .slideshow figure {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #252525;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Ajout de scroll pour le contenu */
+.portfolio .slideshow {
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+/* Style pour le conteneur de schéma */
+.schema-container {
+    border-radius: 8px;
+    border: 1px solid #444;
+    background-color: #1e1e1e !important;
+}
+
+/* Amélioration des images */
+.portfolio .slideshow img.img-fluid {
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    max-height: 500px;
+    object-fit: contain;
+    width: 100%;
+    background-color: #1a1a1a;
+    padding: 10px;
+}
+
+/* Styles pour les titres de section */
+.portfolio .slideshow h5 {
+    font-weight: 600;
+    color: #fff;
+    border-bottom: 1px solid #444;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Styles pour les icônes dans les titres */
+.portfolio .slideshow h5 i {
+    color: #ff5722;
+    margin-right: 8px;
+}
+
+/* Amélioration du texte de description */
+.portfolio .slideshow p.text-left {
+    line-height: 1.7;
+    color: #ddd;
+    text-align: justify;
+}
+
+/* Styles pour les listes dans les schémas */
+.schema-container ul {
+    padding-left: 20px;
+}
+
+.schema-container li {
+    margin-bottom: 8px;
+    color: #ccc;
+}
+
+/* Ajustement des boutons de navigation */
+.portfolio .slideshow nav span.nav-prev,
+.portfolio .slideshow nav span.nav-next {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0;
+    margin: 0 20px;
+}
+
+.portfolio .slideshow nav span.nav-close {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+/* Amélioration de la réactivité */
+@media (max-width: 768px) {
+    .portfolio .slideshow figure {
+        max-width: 95%;
+        padding: 15px;
+    }
+    
+    .portfolio .slideshow img.img-fluid {
+        max-height: 300px;
+    }
+}

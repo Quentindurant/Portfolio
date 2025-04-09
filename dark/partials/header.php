@@ -23,40 +23,40 @@
     $current_page = basename($_SERVER['PHP_SELF']);
     ?>
     <!-- Fixed Navigation Starts -->
-    <ul class="icon-menu d-none d-lg-block revealator-slideup revealator-once revealator-delay1">
-        <li class="icon-box <?= ($current_page == 'index.php') ? 'active' : '' ?>">
+    <ul class="icon-menu d-none d-lg-block revealator-slideup revealator-once revealator-delay1" style="position: relative; z-index: 9999;">
+        <li class="icon-box <?= ($current_page == 'index.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-home"></i>
-            <a href="index.php">
+            <a href="index.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Accueil</h2>
             </a>
         </li>
-        <li class="icon-box <?= ($current_page == 'entreprise.php') ? 'active' : '' ?>">
+        <li class="icon-box <?= ($current_page == 'entreprise.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-building"></i>
-            <a href="entreprise.php">
+            <a href="entreprise.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Entreprise</h2>
             </a>
         </li>
-        <li class="icon-box <?= ($current_page == 'veille.php') ? 'active' : '' ?>">
+        <li class="icon-box <?= ($current_page == 'veille.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-user-secret"></i>
-            <a href="veille.php">
+            <a href="veille.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Veille</h2>
             </a>
         </li>
-        <li class="icon-box <?= ($current_page == 'grille.php') ? 'active' : '' ?>">
+        <li class="icon-box <?= ($current_page == 'grille.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-table"></i>
-            <a href="grille.php">
+            <a href="grille.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Grille</h2>
             </a>
         </li>
-        <li class="icon-box <?= ($current_page == 'projet.php') ? 'active' : '' ?>">
+        <li class="icon-box <?= ($current_page == 'projet.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-briefcase"></i>
-            <a href="projet.php">
+            <a href="projet.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Projets</h2>
             </a>
         </li>
-        <li class="icon-box <?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
+        <li class="icon-box <?= ($current_page == 'exercice.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
             <i class="fa fa-code"></i>
-            <a href="exercice.php">
+            <a href="exercice.php" style="position: relative; z-index: 9999; display: block;">
                 <h2>Exercices</h2>
             </a>
         </li>
@@ -64,29 +64,29 @@
     <!-- Fixed Navigation Ends -->
     <!-- Mobile Menu Starts -->
     <nav role="navigation" class="d-block d-lg-none">
-        <div id="menuToggle">
-            <input type="checkbox" />
+        <div id="menuToggle" style="position: relative; z-index: 9999;">
+            <input type="checkbox" style="position: relative; z-index: 9999;" />
             <span></span>
             <span></span>
             <span></span>
-            <ul class="list-unstyled" id="menu">
-                <li class="<?= ($current_page == 'index.php') ? 'active' : '' ?>">
-                    <a href="index.php"><i class="fa fa-home"></i><span>Accueil</span></a>
+            <ul class="list-unstyled" id="menu" style="position: relative; z-index: 9999;">
+                <li class="<?= ($current_page == 'index.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="index.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-home"></i><span>Accueil</span></a>
                 </li>
-                <li class="<?= ($current_page == 'entreprise.php') ? 'active' : '' ?>">
-                    <a href="entreprise.php"><i class="fa fa-user"></i><span>Entreprise</span></a>
+                <li class="<?= ($current_page == 'entreprise.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="entreprise.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-user"></i><span>Entreprise</span></a>
                 </li>
-                <li class="<?= ($current_page == 'veille.php') ? 'active' : '' ?>">
-                    <a href="veille.php"><i class="fa fa-folder-open"></i><span>Veille</span></a>
+                <li class="<?= ($current_page == 'veille.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="veille.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-folder-open"></i><span>Veille</span></a>
                 </li>
-                <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>">
-                    <a href="grille.php"><i class="fa fa-table"></i><span>Compétences</span></a>
+                <li class="<?= ($current_page == 'grille.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="grille.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-table"></i><span>Compétences</span></a>
                 </li>
-                <li class="<?= ($current_page == 'projet.php') ? 'active' : '' ?>">
-                    <a href="projet.php"><i class="fa fa-briefcase"></i><span>Projets</span></a>
+                <li class="<?= ($current_page == 'projet.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="projet.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-briefcase"></i><span>Projets</span></a>
                 </li>
-                <li class="<?= ($current_page == 'exercice.php') ? 'active' : '' ?>">
-                    <a href="exercice.php"><i class="fa fa-code"></i><span>Exercices</span></a>
+                <li class="<?= ($current_page == 'exercice.php') ? 'active' : '' ?>" style="position: relative; z-index: 9999;">
+                    <a href="exercice.php" style="position: relative; z-index: 9999; display: block;"><i class="fa fa-code"></i><span>Exercices</span></a>
                 </li>
             </ul>
         </div>

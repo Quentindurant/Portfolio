@@ -500,7 +500,6 @@ body.light hr.separator {
 
   .header.hide-header {
     z-index: 0 !important;
-
   }
 
   .header ul.icon-menu {
@@ -529,7 +528,6 @@ body.light hr.separator {
 
   .header ul.icon-menu li.icon-box.active,
   .header ul.icon-menu li.icon-box:hover,
-  .header ul.icon-menu li.icon-box.active i,
   .header ul.icon-menu li.icon-box:hover i {
     color: #fff;
   }
@@ -586,28 +584,9 @@ body.light hr.separator {
   }
 }
 
-/* Header fix */
-.icon-menu {
-  position: relative;
-  z-index: 1200; /* Valeur plus élevée que le slideshow */
-}
-
-.icon-menu li {
-  position: relative;
-  z-index: 1200; /* Valeur plus élevée que le slideshow */
-}
-
-.icon-menu li a {
-  position: relative;
-  z-index: 1200; /* Valeur plus élevée que le slideshow */
-}
-
 /* [ Pages ] */
 /*================================================== */
 
-.espace{
-  margin-bottom: 10px;
-}
 /*** Homepage ***/
 
 .home .color-block {
@@ -946,6 +925,7 @@ body.light hr.separator {
   -webkit-transition: opacity 0.5s, visibility 0s 0.5s;
   transition: opacity 0.5s, visibility 0s 0.5s;
   text-align: left;
+  pointer-events: none; /* Ajout pour éviter les problèmes de clic quand le slideshow est fermé */
 }
 
 .portfolio .slideshow-open .slideshow {
@@ -953,6 +933,7 @@ body.light hr.separator {
   visibility: visible;
   -webkit-transition: opacity 0.5s;
   transition: opacity 0.5s;
+  pointer-events: auto; /* Réactiver les événements de pointeur quand le slideshow est ouvert */
 }
 
 .portfolio .slideshow ul {

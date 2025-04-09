@@ -43,17 +43,20 @@
                             <figcaption>
                                 <h3 style="color: #fff !important; font-size: 22px !important;">Welcome Formation</h3>
                                 <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Projet </span>: <span class="ft-wt-600 uppercase">Welcome Formation</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, SQL, JS, PHP, POO</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/Welcome_Formation/" target="_blank">Welcome Formation</a></span>
+                                    </div>
+                                    <div class="col-12 col-sm-6 mb-2">
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 1</span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->
@@ -95,17 +98,20 @@
                             <figcaption>
                                 <h3 style="color: #fff !important; font-size: 22px !important;">Click'n Eat</h3>
                                 <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Click'n Eat</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">PHP, Laravel, MySQL, HTML, CSS, JS</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Click'n Eat</a></span>
+                                    </div>
+                                    <div class="col-12 col-sm-6 mb-2">
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 1</span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->
@@ -188,17 +194,20 @@
                             <figcaption>
                                 <h3 style="color: #fff !important; font-size: 22px !important;">LDAP</h3>
                                 <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LDAP</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, PHP, SQL, JS, VPS </span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="http://54.36.189.50/GCAdmin/admin/V1_admin.php" target="_blank">LDAP</a></span>
+                                    </div>
+                                    <div class="col-12 col-sm-6 mb-2">
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 2</span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->
@@ -225,17 +234,20 @@
                             <figcaption>
                                 <h3 style="color: #fff !important; font-size: 22px !important;">DELYTECH</h3>
                                 <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">DELYTECH</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">PHP, Laravel, MySQL, HTML, CSS, JS</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>
+                                    </div>
+                                    <div class="col-12 col-sm-6 mb-2">
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 2</span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->
@@ -262,17 +274,20 @@
                             <figcaption>
                                 <h3 style="color: #fff !important; font-size: 22px !important;">YapluCa</h3>
                                 <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">YapluCa</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Flutter, Dart, Firebase, Google Maps</span>
                                     </div>
-                                    <div class="col-6 mb-2">
+                                    <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/QuentinDurant/yapluCa" target="_blank">YapluCa</a></span>
+                                    </div>
+                                    <div class="col-12 col-sm-6 mb-2">
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 3, Ligne 2</span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->

@@ -8,6 +8,21 @@
 <?php include('partials/header.php'); ?>
 
 <!-- Header Ends -->
+    <!-- Style pour les images de projets -->
+    <style>
+        .grid figure img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            object-position: center;
+        }
+        
+        .slideshow figure img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    
     <!-- SECTION ECOLE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
         <h1>Projets <span>ECOLE</span></h1>
@@ -40,8 +55,8 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/WelcomeFormation.png" alt="Welcome Formation"/>
-                            <div><span>Welcome Training</span></div>
+                            <img src="image/WelcomeFormation.png" alt="Welcome Formations"/>
+                            <div><span>Welcome Formation</span></div>
                         </figure>
                     </li>
                     <li>

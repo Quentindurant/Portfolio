@@ -46,7 +46,7 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/laravel_resized_895x552.png" alt="Laravel"/>
+                            <img src="image/clickneat.png" alt="Laravel"/>
                             <div><span>Click'n Eat</span></div>
                         </figure>
                     </li>
@@ -227,7 +227,7 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/mobile_resized_895x552.png" alt="YapluCa" />
+                            <img src="image/logowhite.png" alt="YapluCa" />
                             <div><span>YapluCa</span></div>
                         </figure>
                     </li>

@@ -55,7 +55,7 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/WelcomeFormation.png" alt="Welcome Formations"/>
+                            <img src="image/WelcomeFormations.png" alt="Welcome Formations"/>
                             <div><span>Welcome Formation</span></div>
                         </figure>
                     </li>

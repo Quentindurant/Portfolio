@@ -85,7 +85,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Calculatrice Immobilier</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Calculatrice Immobilier</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Calculatrice Immobilier</span>
@@ -209,7 +209,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Site Apple</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Site Apple</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Site Apple</span>
@@ -271,7 +271,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Météo React</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Météo React</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Météo React</span>
@@ -334,7 +334,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Matrice JS</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Matrice JS</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Matrice JS</span>
@@ -397,7 +397,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Template Admin</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">Template Admin</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Exercice </span>: <span class="ft-wt-600 uppercase">Template Admin</span>

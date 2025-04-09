@@ -950,7 +950,7 @@ body.light hr.separator {
 .portfolio .slideshow ul > li {
   width: 660px;
   position: absolute;
-  top: 50%;
+  top: 35%;
   left: 50%;
   margin: -280px 0 0 -330px;
   visibility: hidden;

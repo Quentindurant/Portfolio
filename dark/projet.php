@@ -8,21 +8,6 @@
 <?php include('partials/header.php'); ?>
 
 <!-- Header Ends -->
-    <!-- Style pour les images de projets -->
-    <style>
-        .grid figure img {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
-            object-position: center;
-        }
-        
-        .slideshow figure img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-    
     <!-- SECTION ECOLE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
         <h1>Projets <span>ECOLE</span></h1>
@@ -152,7 +137,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>TELORA</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">LDAP</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LDAP</span>
@@ -180,7 +165,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>DELYTECH</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">DELYTECH</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">DELYTECH</span>
@@ -208,7 +193,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>YapluCa</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">YapluCa</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">YapluCa</span>

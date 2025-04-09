@@ -830,6 +830,19 @@ body.light hr.separator {
   margin-top: -15px;
 }
 
+/* Styles communs pour les pages projet et exercice */
+.grid figure img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.slideshow figure img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Grid */
 
 .portfolio .grid-gallery ul {
@@ -1904,17 +1917,4 @@ body.light hr.separator {
   .separator.mt-1 {
     margin-top: 35px !important;
   }
-}
-
-/* Styles personnalisés pour la page exercice.php */
-.grid figure img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    object-position: center;
-}
-
-.slideshow figure img {
-    max-width: 100%;
-    height: auto;
 }

@@ -46,14 +46,8 @@
                     </li>
                     <li>
                         <figure>
-                            <img src="image/mobile_resized_895x552.png" alt="Mobile"/>
-                            <div><span>Projet Mobile</span></div>
-                        </figure>
-                    </li>
-                    <li>
-                        <figure>
                             <img src="image/laravel_resized_895x552.png" alt="Laravel"/>
-                            <div><span>Laravel</span></div>
+                            <div><span>Click'n Eat</span></div>
                         </figure>
                     </li>
                 </ul>
@@ -177,53 +171,25 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3>Projet Mobile</h3>
+                                <h3>Click'n Eat</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Mobile</span>
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Click'n Eat</span>
                                     </div>
                                     <div class="col-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
                                     </div>
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS</span>
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">PHP, Laravel, MySQL, HTML, CSS, JS</span>
                                     </div>
                                     <div class="col-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">Projet Mobile</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Click'n Eat</a></span>
                                     </div>
                                 </div>
                             </figcaption>
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
-                            <img src="image/mobile_resized_895x552.png" alt="projet mobile" />
-                            <!-- Main Project Content Ends -->
-                        </figure>
-                    </li>
-                    <!-- Portfolio Item Detail Ends -->
-                    <!-- Portfolio Item Detail Starts -->
-                    <li>
-                        <figure>
-                            <!-- Project Details Starts -->
-                            <figcaption>
-                                <h3>LARAVEL</h3>
-                                <div class="row open-sans-font">
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LARAVEL</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">Ecole MDS ESPL</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">LARAVEL</span>
-                                    </div>
-                                    <div class="col-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">LARAVEL</a></span>
-                                    </div>
-                                </div>
-                            </figcaption>
-                            <!-- Project Details Ends -->
-                            <!-- Main Project Content Starts -->
-                            <img src="image/laravel_resized_895x552.png" alt="Laravel" />
+                            <img src="image/laravel_resized_895x552.png" alt="Click'n Eat" />
                             <!-- Main Project Content Ends -->
                         </figure>
                     </li>
@@ -257,6 +223,12 @@
                         <figure>
                             <img src="image/delytech.png" alt="Delytech" />
                             <div><span>Delytech</span></div>
+                        </figure>
+                    </li>
+                    <li>
+                        <figure>
+                            <img src="image/mobile_resized_895x552.png" alt="YapluCa" />
+                            <div><span>YapluCa</span></div>
                         </figure>
                     </li>
                 </ul>
@@ -314,6 +286,34 @@
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
                             <img src="image/delytech.png" alt="LDAP" />
+                            <!-- Main Project Content Ends -->
+                        </figure>
+                    </li>
+                    <!-- Portfolio Item Detail Ends -->
+                    <!-- Portfolio Item Detail Starts -->
+                    <li>
+                        <figure>
+                            <!-- Project Details Starts -->
+                            <figcaption>
+                                <h3>YapluCa</h3>
+                                <div class="row open-sans-font">
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">YapluCa</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Flutter, Dart, Firebase, Google Maps</span>
+                                    </div>
+                                    <div class="col-6 mb-2">
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">YapluCa</a></span>
+                                    </div>
+                                </div>
+                            </figcaption>
+                            <!-- Project Details Ends -->
+                            <!-- Main Project Content Starts -->
+                            <img src="image/mobile_resized_895x552.png" alt="YapluCa" />
                             <!-- Main Project Content Ends -->
                         </figure>
                     </li>

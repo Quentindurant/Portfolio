@@ -40,6 +40,18 @@
             overflow-y: auto;
         }
         
+        .portfolio .slideshow > ul > li {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 50px 0;
+        }
+        
         .portfolio .slideshow figure {
             padding: 20px;
             max-width: 85%;
@@ -47,6 +59,8 @@
             background-color: #252525;
             border-radius: 10px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            max-height: 80vh;
+            overflow-y: auto;
         }
         
         .portfolio .slideshow h5 {

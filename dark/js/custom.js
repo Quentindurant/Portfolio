@@ -44,9 +44,6 @@
 
 		$(".grid figure").on('click', function() {
 			$("#navbar-collapse-toggle").addClass('hide-header');
-			// S'assurer que tous les liens du header sont cliquables
-			$(".icon-menu li a").css("pointer-events", "auto");
-			$(".icon-menu li").css("z-index", "10");
 		});
 
 		/* ----------------------------------------------------------- */
@@ -55,24 +52,30 @@
 
 		$(".nav-close").on('click', function() {
 			$("#navbar-collapse-toggle").removeClass('hide-header');
-			// Force le retour à la normale des liens du header
-			$(".icon-menu li a").css("pointer-events", "auto");
-			$(".icon-menu li").css("z-index", "10");
+			// Réinitialiser le z-index et les événements pour tous les éléments du menu
+			setTimeout(function() {
+				$(".icon-menu li").css("z-index", "");
+				$(".icon-menu li a").css("pointer-events", "");
+			}, 100);
 		});
 		$(".nav-prev").on('click', function() {
 			if ($('.slideshow ul li:first-child').hasClass('current')) {
 				$("#navbar-collapse-toggle").removeClass('hide-header');
-				// Force le retour à la normale des liens du header
-				$(".icon-menu li a").css("pointer-events", "auto");
-				$(".icon-menu li").css("z-index", "10");
+				// Réinitialiser le z-index et les événements pour tous les éléments du menu
+				setTimeout(function() {
+					$(".icon-menu li").css("z-index", "");
+					$(".icon-menu li a").css("pointer-events", "");
+				}, 100);
 			}
 		});
 		$(".nav-next").on('click', function() {
 			if ($('.slideshow ul li:last-child').hasClass('current')) {
 				$("#navbar-collapse-toggle").removeClass('hide-header');
-				// Force le retour à la normale des liens du header
-				$(".icon-menu li a").css("pointer-events", "auto");
-				$(".icon-menu li").css("z-index", "10");
+				// Réinitialiser le z-index et les événements pour tous les éléments du menu
+				setTimeout(function() {
+					$(".icon-menu li").css("z-index", "");
+					$(".icon-menu li a").css("pointer-events", "");
+				}, 100);
 			}
 		});
 
@@ -127,9 +130,11 @@
 			stop_videos();
 			$('.close-content').click();
 			$("#navbar-collapse-toggle").removeClass('hide-header');
-			// Force le retour à la normale des liens du header quand on ferme avec ESC
-			$(".icon-menu li a").css("pointer-events", "auto");
-			$(".icon-menu li").css("z-index", "10");
+			// Réinitialiser le z-index et les événements pour tous les éléments du menu
+			setTimeout(function() {
+				$(".icon-menu li").css("z-index", "");
+				$(".icon-menu li a").css("pointer-events", "");
+			}, 100);
 		}
 		if ((e.keyCode === 37) || (e.keyCode === 39)) {
 			stop_videos();

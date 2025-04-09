@@ -586,6 +586,22 @@ body.light hr.separator {
   }
 }
 
+/* Header fix */
+.icon-menu {
+  position: relative;
+  z-index: 1200; /* Valeur plus élevée que le slideshow */
+}
+
+.icon-menu li {
+  position: relative;
+  z-index: 1200; /* Valeur plus élevée que le slideshow */
+}
+
+.icon-menu li a {
+  position: relative;
+  z-index: 1200; /* Valeur plus élevée que le slideshow */
+}
+
 /* [ Pages ] */
 /*================================================== */
 

@@ -226,7 +226,7 @@
                         <figure>
                             <!-- Project Details Starts -->
                             <figcaption>
-                                <h3 style="color: #fff !important; font-size: 22px !important;">LDAP</h3>
+                                <h3 style="color: #fff !important; font-size: 22px !important;">TELORA</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LDAP</span>
@@ -267,7 +267,7 @@
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>
-                                    <img src="image/ldap.png" alt="LDAP" class="img-fluid" />
+                                    <img src="image/telora.png" alt="Telora" class="img-fluid" />
                                 </div>
                                 
                                 <!-- Schéma explicatif -->
@@ -335,7 +335,7 @@
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>
-                                    <img src="image/delytech.png" alt="DELYTECH" class="img-fluid" />
+                                    <img src="image/comingsoon.png" alt="DELYTECH" class="img-fluid" />
                                 </div>
                                 
                                 <!-- Schéma explicatif -->

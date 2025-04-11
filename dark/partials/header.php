@@ -12,6 +12,8 @@
     <link href="css/style.css" rel="stylesheet">
     <!-- CSS Skin File -->
     <link href="css/skins/red.css" rel="stylesheet">
+    <!-- Fix pour le header -->
+    <link href="css/header-fix.css" rel="stylesheet">
 
     <!-- Modernizr JS File -->
     <script src="js/modernizr.custom.js"></script>

@@ -83,19 +83,27 @@ nav.pagination {
                             </tr>
                             <tr>
                                 <td>DELYTECH</td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
+                            </tr>
+                            <tr>
+                                <td>YAPLUCA</td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <div class="text-center mt-4">
                     <p class="open-sans-font">Cette grille présente les compétences acquises à travers les différents projets réalisés durant ma formation et mes expériences professionnelles.</p>
-                    <p class="open-sans-font">D'autres projets pourront être ajoutés ultérieurement pour compléter cette grille de compétences.</p>
                 </div>
             </div>
             <!-- Grille de compétences Ends -->

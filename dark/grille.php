@@ -84,18 +84,18 @@ nav.pagination {
                             <tr>
                                 <td>DELYTECH</td>
                                 <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
                             </tr>
                             <tr>
                                 <td>YAPLUCA</td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                             </tr>

@@ -54,7 +54,7 @@ include 'partials/header.php';
             </div>
 
             <!-- Sujets suivis -->
-            <h2 class="mb-4 mt-5 text-white">Sujets suivis</h2>
+            <h2 class="mb-4 mt-5 text-white">Sujets suivis en 2024-2025</h2>
             <div class="table-responsive">
                 <table class="table table-bordered table-dark">
                     <thead>
@@ -67,30 +67,45 @@ include 'partials/header.php';
                     <tbody>
                         <tr>
                             <td>Large Language Models</td>
-                            <td>2023-2024</td>
-                            <td>GPT-4, Claude, Llama</td>
+                            <td>2024-2025</td>
+                            <td>GPT-4, Gemini, Llama 3, Claude 3</td>
                         </tr>
                         <tr>
-                            <td>IA Générative</td>
-                            <td>2023-2024</td>
-                            <td>Stable Diffusion, DALL-E, Midjourney</td>
+                            <td>IA Générative (image, vidéo, audio)</td>
+                            <td>2024-2025</td>
+                            <td>Sora, Stable Diffusion XL, DALL-E 3, Suno AI</td>
+                        </tr>
+                        <tr>
+                            <td>IA et cybersécurité</td>
+                            <td>2024-2025</td>
+                            <td>Détection de menaces, deepfakes, IA défensive</td>
+                        </tr>
+                        <tr>
+                            <td>Régulation et éthique</td>
+                            <td>2024-2025</td>
+                            <td>AI Act, RGPD, IA responsable</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <!-- Sources et résumés -->
-            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles</h2>
+            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Les avancées de GPT-4</h4>
-                    <p class="text-white"><strong>Source:</strong> OpenAI Blog - Mars 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Analyse des capacités multimodales et des améliorations en termes de raisonnement.</p>
+                    <h4 class="text-white">Gemini : la nouvelle IA de Google</h4>
+                    <p class="text-white"><strong>Source:</strong> Google AI Blog, mars 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Gemini surpasse GPT-4 sur plusieurs benchmarks, intègre multimodalité et raisonnement avancé.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">L'IA dans la recherche médicale</h4>
-                    <p class="text-white"><strong>Source:</strong> Nature - Février 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Applications de l'IA dans la découverte de médicaments et le diagnostic médical.</p>
+                    <h4 class="text-white">Sora : l'IA vidéo d'OpenAI</h4>
+                    <p class="text-white"><strong>Source:</strong> OpenAI Blog, février 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Sora génère des vidéos réalistes à partir de descriptions textuelles, ouvrant de nouveaux usages créatifs.</p>
+                </div>
+                <div class="article mb-4">
+                    <h4 class="text-white">AI Act : la régulation européenne</h4>
+                    <p class="text-white"><strong>Source:</strong> Commission Européenne, avril 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> L'AI Act encadre le développement et l'usage de l'IA en Europe, avec un focus sur la transparence et l'éthique.</p>
                 </div>
             </div>
         </div>

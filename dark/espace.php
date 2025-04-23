@@ -54,7 +54,7 @@ include 'partials/header.php';
             </div>
 
             <!-- Sujets suivis -->
-            <h2 class="mb-4 mt-5 text-white">Sujets suivis</h2>
+            <h2 class="mb-4 mt-5 text-white">Sujets suivis en 2024-2025</h2>
             <div class="table-responsive">
                 <table class="table table-bordered table-dark">
                     <thead>
@@ -66,31 +66,46 @@ include 'partials/header.php';
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Systèmes embarqués spatiaux</td>
-                            <td>2023-2024</td>
-                            <td>Radiation-hardening, fiabilité</td>
+                            <td>IA et spatial</td>
+                            <td>2024-2025</td>
+                            <td>Traitement d’images satellite, IA embarquée</td>
                         </tr>
                         <tr>
-                            <td>Communications spatiales</td>
-                            <td>2023-2024</td>
-                            <td>Starlink, communications quantiques</td>
+                            <td>Constellations satellites</td>
+                            <td>2024-2025</td>
+                            <td>Starlink, Kuiper, communications quantiques</td>
+                        </tr>
+                        <tr>
+                            <td>Matériaux et hardware spatial</td>
+                            <td>2024-2025</td>
+                            <td>Radiation hardening, miniaturisation, fiabilité</td>
+                        </tr>
+                        <tr>
+                            <td>Exploration et robotique</td>
+                            <td>2024-2025</td>
+                            <td>Rovers autonomes, missions Artemis, SpaceX Starship</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <!-- Sources et résumés -->
-            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles</h2>
+            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Les nouveaux systèmes embarqués de l'ESA</h4>
-                    <p class="text-white"><strong>Source:</strong> ESA Tech Portal - Mars 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Présentation des innovations en matière de systèmes embarqués résistants aux radiations.</p>
+                    <h4 class="text-white">L’IA embarquée dans les satellites</h4>
+                    <p class="text-white"><strong>Source:</strong> ESA Tech, janvier 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> L’intelligence artificielle optimise le traitement des images et la gestion des ressources à bord des satellites.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">L'avenir des communications spatiales</h4>
-                    <p class="text-white"><strong>Source:</strong> Space News - Février 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Analyse des nouvelles technologies de communication spatiale et leur impact.</p>
+                    <h4 class="text-white">Starlink et la nouvelle ère des constellations</h4>
+                    <p class="text-white"><strong>Source:</strong> Space.com, mars 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Les constellations de satellites révolutionnent l’accès à Internet partout sur Terre et posent de nouveaux défis techniques.</p>
+                </div>
+                <div class="article mb-4">
+                    <h4 class="text-white">Missions Artemis : le retour sur la Lune</h4>
+                    <p class="text-white"><strong>Source:</strong> NASA, avril 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Les missions Artemis préparent l’installation durable de l’homme sur la Lune avec des innovations robotiques et matérielles.</p>
                 </div>
             </div>
         </div>

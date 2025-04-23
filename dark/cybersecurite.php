@@ -52,7 +52,7 @@ include 'partials/header.php';
             </div>
 
             <!-- Sujets suivis -->
-            <h2 class="mb-4 mt-5 text-white">Sujets suivis</h2>
+            <h2 class="mb-4 mt-5 text-white">Sujets suivis en 2024-2025</h2>
             <div class="table-responsive">
                 <table class="table table-bordered table-dark">
                     <thead>
@@ -64,31 +64,46 @@ include 'partials/header.php';
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Ransomware</td>
-                            <td>2023-2024</td>
-                            <td>Nouvelles variantes, méthodes de protection</td>
+                            <td>Ransomware & attaques IA</td>
+                            <td>2024-2025</td>
+                            <td>Deepfakes, phishing automatisé, rançongiciels hybrides</td>
                         </tr>
                         <tr>
-                            <td>Zero Trust</td>
-                            <td>2023-2024</td>
-                            <td>Architecture, implémentation</td>
+                            <td>Zero Trust & MFA</td>
+                            <td>2024-2025</td>
+                            <td>Zero Trust Network Access, MFA généralisé, passwordless</td>
+                        </tr>
+                        <tr>
+                            <td>Réglementation RGPD 2025</td>
+                            <td>2024-2025</td>
+                            <td>Nouvelles exigences, conformité, privacy by design</td>
+                        </tr>
+                        <tr>
+                            <td>Cybersécurité du cloud</td>
+                            <td>2024-2025</td>
+                            <td>Sécurité multi-cloud, SASE, chiffrement avancé</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <!-- Sources et résumés -->
-            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles</h2>
+            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Evolution des ransomwares en 2024</h4>
-                    <p class="text-white"><strong>Source:</strong> ANSSI - Mars 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Analyse des nouvelles techniques d'attaque et recommandations de protection.</p>
+                    <h4 class="text-white">Les menaces cyber 2025 : l’ère de l’IA malveillante</h4>
+                    <p class="text-white"><strong>Source:</strong> ANSSI, avril 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Les attaques par IA se multiplient, rendant la détection plus complexe et nécessitant de nouveaux outils défensifs.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Zero Trust : au-delà du buzz</h4>
-                    <p class="text-white"><strong>Source:</strong> SecurityWeek - Février 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Étude approfondie de l'architecture Zero Trust et de son implémentation.</p>
+                    <h4 class="text-white">Zero Trust : la nouvelle norme</h4>
+                    <p class="text-white"><strong>Source:</strong> ZDNet, février 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> L’adoption du Zero Trust Network Access s’accélère, notamment dans les grandes entreprises et le secteur public.</p>
+                </div>
+                <div class="article mb-4">
+                    <h4 class="text-white">RGPD 2025 : ce qui change</h4>
+                    <p class="text-white"><strong>Source:</strong> CNIL, mars 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Le RGPD évolue pour mieux encadrer les données dans le cloud et renforcer la protection des utilisateurs européens.</p>
                 </div>
             </div>
         </div>

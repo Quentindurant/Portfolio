@@ -112,13 +112,7 @@
                                     <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Schéma explicatif</h5>
                                     <div class="schema-container p-3 bg-dark">
                                         <p>Architecture du système de formation :</p>
-                                        <ul>
-                                            <li>Catalogue de formations avec filtres et recherche</li>
-                                            <li>Système d'inscription et de paiement en ligne</li>
-                                            <li>Espace personnel pour suivre sa progression</li>
-                                            <li>Tableau de bord administrateur pour la gestion des formations</li>
-                                            <li>Génération de certificats et d'attestations</li>
-                                        </ul>
+                                        <img src="./image/wf.svg" alt="Welcome Formation" class="img-fluid" style="background:#fff;max-width:100%;height:auto;display:block;margin:auto;" />
                                     </div>
                                 </div>
                             </div>
@@ -208,14 +202,7 @@
                                     <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Schéma explicatif</h5>
                                     <div class="schema-container p-3 bg-dark">
                                         <p>Architecture du système de commande de repas :</p>
-                                        <ul>
-                                            <li>Interface utilisateur intuitive pour la recherche et la commande de repas</li>
-                                            <li>Système de filtrage par type de cuisine, prix et évaluations</li>
-                                            <li>Gestion des comptes utilisateurs et des adresses de livraison</li>
-                                            <li>Panneau d'administration pour les restaurants partenaires</li>
-                                            <li>Système de paiement en ligne sécurisé</li>
-                                            <li>Suivi en temps réel des commandes</li>
-                                        </ul>
+                                        <img src="./image/click.svg" alt="Click'n Eat" class="img-fluid" style="background:#fff;max-width:100%;height:auto;display:block;margin:auto;" />
                                     </div>
                                 </div>
                             </div>
@@ -514,7 +501,7 @@
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>
-                                    <img src="image/mobile_resized_895x552.png" alt="YapluCa" class="img-fluid" />
+                                    <img src="image/yaplucatout.png" alt="YapluCa" class="img-fluid" />
                                 </div>
                                 
                                 <!-- Schéma explicatif -->

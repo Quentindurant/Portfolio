@@ -317,7 +317,7 @@
                                     <div class="col-12">
                                         <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
                                         <p class="text-left">
-                                            Plateforme de livraison de repas pour les entreprises locales. Ce projet permet aux entreprises de commander des repas pour leurs employés auprès de restaurants partenaires, avec un système de gestion des commandes, de facturation et de livraison.
+                                            Plateforme de Gestion de technicien. Dans un contexte d'entreprise où l'augmentation de technicien d'intervention ne cesse d'augmenter, une plateforme qui centralise l'emplois du temps, la geolocalisation, les compétences et les horaires précis d'arrivée sur intervention est nécessaire pour un gain de temps optimal et réduire la charge de traviller donné aux ADV
                                         </p>
                                     </div>
                                 </div>
@@ -368,16 +368,16 @@
                                         <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">YapluCa</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
+                                        <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">télétravaille, Angers</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Flutter, Dart, Firebase, Google Maps</span>
+                                        <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Flutter, Dart, Firebase</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/QuentinDurant/yapluCa" target="_blank">YapluCa</a></span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 3, Ligne 2</span>
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase"></span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->

@@ -9,8 +9,6 @@ include 'partials/header.php';
     
     <div class="container my-5">
         <div class="row">
-            <!-- Développement Web -->
-        <div class="col-md-8 col-lg-5 mb-4">
             <!-- Intelligence Artificielle -->
             <div class="col-md-8 col-lg-5 mb-4">
               <div class="card project-card" onclick="location.href='ia.php'">

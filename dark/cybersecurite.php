@@ -92,17 +92,17 @@ include 'partials/header.php';
             <div class="article-summaries">
                 <div class="article mb-4">
                     <h4 class="text-white">Les menaces cyber 2025 : l’ère de l’IA malveillante</h4>
-                    <p class="text-white"><strong>Source:</strong> ANSSI, avril 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.ssi.gouv.fr/publication/rapport-annuel-2025/" target="_blank" class="text-info">ANSSI, avril 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Les attaques par IA se multiplient, rendant la détection plus complexe et nécessitant de nouveaux outils défensifs.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">Zero Trust : la nouvelle norme</h4>
-                    <p class="text-white"><strong>Source:</strong> ZDNet, février 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.zdnet.fr/actualites/zero-trust-la-nouvelle-norme-39966687.htm" target="_blank" class="text-info">ZDNet, février 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> L’adoption du Zero Trust Network Access s’accélère, notamment dans les grandes entreprises et le secteur public.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">RGPD 2025 : ce qui change</h4>
-                    <p class="text-white"><strong>Source:</strong> CNIL, mars 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.cnil.fr/fr/rgpd-evolution-2025" target="_blank" class="text-info">CNIL, mars 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Le RGPD évolue pour mieux encadrer les données dans le cloud et renforcer la protection des utilisateurs européens.</p>
                 </div>
             </div>

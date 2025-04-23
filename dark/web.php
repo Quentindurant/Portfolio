@@ -99,22 +99,22 @@ include 'partials/header.php';
             <div class="article-summaries">
                 <div class="article mb-4">
                     <h4 class="text-white">React 19 : ce qui change vraiment</h4>
-                    <p class="text-white"><strong>Source:</strong> React Blog, 2024</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://react.dev/blog/2024/04/20/react-19" target="_blank" class="text-info">React Blog, 2024</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Suspense généralisé, Server Components, et de nouveaux hooks pour une expérience développeur améliorée.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">L’IA générative révolutionne le web</h4>
-                    <p class="text-white"><strong>Source:</strong> Journal du Net, mars 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.journaldunet.com/solutions/ia/" target="_blank" class="text-info">Journal du Net, mars 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> L’intégration de l’IA dans les outils web (CMS, éditeurs, frameworks) accélère la création de contenu et la personnalisation des sites.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">Cybersécurité : les menaces 2025</h4>
-                    <p class="text-white"><strong>Source:</strong> ANSSI, avril 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.ssi.gouv.fr/publication/rapport-annuel-2025/" target="_blank" class="text-info">ANSSI, avril 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Hausse des attaques par IA, importance du Zero Trust, MFA généralisé et nouvelles exigences RGPD.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">Accessibilité web : les nouveautés WCAG 2.2</h4>
-                    <p class="text-white"><strong>Source:</strong> MDN Web Docs, février 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://developer.mozilla.org/fr/docs/Web/Accessibility/WCAG" target="_blank" class="text-info">MDN Web Docs, février 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Les nouvelles recommandations facilitent la navigation pour tous, avec des outils d’audit intégrés aux navigateurs.</p>
                 </div>
             </div>

@@ -94,17 +94,17 @@ include 'partials/header.php';
             <div class="article-summaries">
                 <div class="article mb-4">
                     <h4 class="text-white">Gemini : la nouvelle IA de Google</h4>
-                    <p class="text-white"><strong>Source:</strong> Google AI Blog, mars 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://blog.google/technology/ai/google-gemini-ai/" target="_blank" class="text-info">Google AI Blog, mars 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Gemini surpasse GPT-4 sur plusieurs benchmarks, intègre multimodalité et raisonnement avancé.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">Sora : l'IA vidéo d'OpenAI</h4>
-                    <p class="text-white"><strong>Source:</strong> OpenAI Blog, février 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://openai.com/research/sora" target="_blank" class="text-info">OpenAI Blog, février 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> Sora génère des vidéos réalistes à partir de descriptions textuelles, ouvrant de nouveaux usages créatifs.</p>
                 </div>
                 <div class="article mb-4">
                     <h4 class="text-white">AI Act : la régulation européenne</h4>
-                    <p class="text-white"><strong>Source:</strong> Commission Européenne, avril 2025</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/artificial-intelligence_en" target="_blank" class="text-info">Commission Européenne, avril 2025</a></p>
                     <p class="text-white"><strong>Résumé:</strong> L'AI Act encadre le développement et l'usage de l'IA en Europe, avec un focus sur la transparence et l'éthique.</p>
                 </div>
             </div>

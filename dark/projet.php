@@ -244,15 +244,6 @@
                                         <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 2</span>
                                     </div>
                                 </div>
-                                <!-- Description du projet -->
-                                <div class="row open-sans-font mt-4">
-                                    <div class="col-12">
-                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
-                                        <p class="text-left">
-                                            Système d'authentification LDAP pour la gestion des utilisateurs et des accès. Ce projet permet de centraliser la gestion des identités et des autorisations pour différentes applications de l'entreprise, avec une interface d'administration sécurisée.
-                                        </p>
-                                    </div>
-                                </div>
                             </figcaption>
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
@@ -325,13 +316,6 @@
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
                             <div class="row open-sans-font">
-                                <!-- Description du projet -->
-                                <div class="col-12 mb-4">
-                                    <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
-                                    <p class="text-left">
-                                        Plateforme de livraison de repas pour les entreprises locales. DELYTECH permet aux entreprises de commander des repas pour leurs employés auprès de restaurants partenaires, avec un système de facturation centralisé.
-                                    </p>
-                                </div>
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>

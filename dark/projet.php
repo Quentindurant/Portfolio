@@ -241,7 +241,10 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="http://54.36.189.50/GCAdmin/admin/V1_admin.php" target="_blank">LDAP</a></span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 2</span>
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
+                                        <span class="ft-wt-600 uppercase">
+                                            Gérer le patrimoine informatique, Répondre aux incidents et aux demandes d’assistance, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique
+                                        </span>
                                     </div>
                                 </div>
                             </figcaption>
@@ -300,7 +303,10 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 2</span>
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
+                                        <span class="ft-wt-600 uppercase">
+                                            Développer la présence en ligne de l’organisation, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique
+                                        </span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->
@@ -308,7 +314,7 @@
                                     <div class="col-12">
                                         <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
                                         <p class="text-left">
-                                            Plateforme de Gestion de technicien. Dans un contexte d'entreprise où l'augmentation de technicien d'intervention ne cesse d'augmenter, une plateforme qui centralise l'emplois du temps, la geolocalisation, les compétences et les horaires précis d'arrivée sur intervention est nécessaire pour un gain de temps optimal et réduire la charge de traviller donné aux ADV
+                                            Plateforme de Gestion de technicien. Dans un contexte d'entreprise où l'augmentation de technicien d'intervention ne cesse d'augmenter, une plateforme qui centralise l'emplois du temps, la geolocalisation, les compétences et les horaires précis d'arrivée sur intervention est nécessaire pour un gain de temps optimal et réduire la charge de travailer donné aux ADV
                                         </p>
                                     </div>
                                 </div>
@@ -361,7 +367,10 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/QuentinDurant/yapluCa" target="_blank">YapluCa</a></span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase"></span>
+                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
+                                        <span class="ft-wt-600 uppercase">
+                                            Gérer le patrimoine informatique, Développer la présence en ligne de l’organisation, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique, Organiser son développement professionnel
+                                        </span>
                                     </div>
                                 </div>
                                 <!-- Description du projet -->

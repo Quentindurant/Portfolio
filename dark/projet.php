@@ -59,6 +59,35 @@
                                         <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 1</span>
                                     </div>
                                 </div>
+                                <!-- Mini tableau des compétences -->
+                                <div class="row open-sans-font mb-3">
+                                    <div class="col-12">
+                                        <table class="table table-bordered table-sm text-center" style="background:#181818;color:#fff;font-size:13px;">
+                                            <thead>
+                                                <tr>
+                                                    <th style="background:#222;">Projet</th>
+                                                    <th style="background:#222;">Gérer le patrimoine informatique</th>
+                                                    <th style="background:#222;">Répondre aux incidents</th>
+                                                    <th style="background:#222;">Développer présence en ligne</th>
+                                                    <th style="background:#222;">Travailler en mode projet</th>
+                                                    <th style="background:#222;">Mettre à dispo un service</th>
+                                                    <th style="background:#222;">Développement professionnel</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>WELCOME FORMATION</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                                 <!-- Description du projet -->
                                 <div class="row open-sans-font mt-4">
                                     <div class="col-12">
@@ -120,6 +149,35 @@
                                         <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 1</span>
                                     </div>
                                 </div>
+                                <!-- Mini tableau des compétences -->
+                                <div class="row open-sans-font mb-3">
+                                    <div class="col-12">
+                                        <table class="table table-bordered table-sm text-center" style="background:#181818;color:#fff;font-size:13px;">
+                                            <thead>
+                                                <tr>
+                                                    <th style="background:#222;">Projet</th>
+                                                    <th style="background:#222;">Gérer le patrimoine informatique</th>
+                                                    <th style="background:#222;">Répondre aux incidents</th>
+                                                    <th style="background:#222;">Développer présence en ligne</th>
+                                                    <th style="background:#222;">Travailler en mode projet</th>
+                                                    <th style="background:#222;">Mettre à dispo un service</th>
+                                                    <th style="background:#222;">Développement professionnel</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>CLICK'N EAT</td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                                 <!-- Description du projet -->
                                 <div class="row open-sans-font mt-4">
                                     <div class="col-12">
@@ -127,22 +185,6 @@
                                         <p class="text-left">
                                             Application web de commande de repas en ligne développée avec Laravel. Click'n Eat permet aux utilisateurs de commander facilement des repas auprès de restaurants partenaires, avec un système de paiement sécurisé et un suivi en temps réel des commandes.
                                         </p>
-                                    </div>
-                                </div>
-                                <!-- Schéma explicatif -->
-                                <div class="row open-sans-font mt-4">
-                                    <div class="col-12">
-                                        <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Fonctionnalités principales</h5>
-                                        <div class="schema-container">
-                                            <ul>
-                                                <li>Interface utilisateur intuitive pour la recherche et la commande de repas</li>
-                                                <li>Système de filtrage par type de cuisine, prix et évaluations</li>
-                                                <li>Gestion des comptes utilisateurs et des adresses de livraison</li>
-                                                <li>Panneau d'administration pour les restaurants partenaires</li>
-                                                <li>Système de paiement en ligne sécurisé</li>
-                                                <li>Suivi en temps réel des commandes</li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </figcaption>
@@ -334,6 +376,35 @@
                                         </span>
                                     </div>
                                 </div>
+                                <!-- Mini tableau des compétences -->
+                                <div class="row open-sans-font mb-3">
+                                    <div class="col-12">
+                                        <table class="table table-bordered table-sm text-center" style="background:#181818;color:#fff;font-size:13px;">
+                                            <thead>
+                                                <tr>
+                                                    <th style="background:#222;">Projet</th>
+                                                    <th style="background:#222;">Gérer le patrimoine informatique</th>
+                                                    <th style="background:#222;">Répondre aux incidents</th>
+                                                    <th style="background:#222;">Développer présence en ligne</th>
+                                                    <th style="background:#222;">Travailler en mode projet</th>
+                                                    <th style="background:#222;">Mettre à dispo un service</th>
+                                                    <th style="background:#222;">Développement professionnel</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>DELYTECH</td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                                 <!-- Description du projet -->
                                 <div class="row open-sans-font mt-4">
                                     <div class="col-12">
@@ -398,6 +469,35 @@
                                         </span>
                                     </div>
                                 </div>
+                                <!-- Mini tableau des compétences -->
+                                <div class="row open-sans-font mb-3">
+                                    <div class="col-12">
+                                        <table class="table table-bordered table-sm text-center" style="background:#181818;color:#fff;font-size:13px;">
+                                            <thead>
+                                                <tr>
+                                                    <th style="background:#222;">Projet</th>
+                                                    <th style="background:#222;">Gérer le patrimoine informatique</th>
+                                                    <th style="background:#222;">Répondre aux incidents</th>
+                                                    <th style="background:#222;">Développer présence en ligne</th>
+                                                    <th style="background:#222;">Travailler en mode projet</th>
+                                                    <th style="background:#222;">Mettre à dispo un service</th>
+                                                    <th style="background:#222;">Développement professionnel</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>YAPLUCa</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                                 <!-- Description du projet -->
                                 <div class="row open-sans-font mt-4">
                                     <div class="col-12">
@@ -423,12 +523,7 @@
                                     <div class="schema-container p-3 bg-dark">
                                         <p>Architecture du système YapluCa :</p>
                                         <ul>
-                                            <li>Carte interactive avec Google Maps pour localiser les bornes</li>
-                                            <li>Système de notification pour rappeler de rendre les batteries</li>
-                                            <li>Gestion des profils utilisateurs avec parrainage et solde de crédit</li>
-                                            <li>Lecteur QR code pour l'emprunt et le retour des batteries</li>
-                                            <li>Tableau de bord administrateur pour le suivi des bornes</li>
-                                            <li>Signal pour la caution sur le bloc de batterie empruntée</li>
+                                            <li><img src="image/Yaplucaexplication.svg" alt="YapluCa" class="img-fluid" /></li>
                                         </ul>
                                     </div>
                                 </div>

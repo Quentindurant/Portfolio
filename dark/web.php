@@ -54,7 +54,7 @@ include 'partials/header.php';
             </div>
 
             <!-- Sujets suivis -->
-            <h2 class="mb-4 mt-5 text-white">Sujets suivis</h2>
+            <h2 class="mb-4 mt-5 text-white">Sujets suivis en 2024-2025</h2>
             <div class="table-responsive">
                 <table class="table table-bordered table-dark">
                     <thead>
@@ -67,30 +67,55 @@ include 'partials/header.php';
                     <tbody>
                         <tr>
                             <td>Frameworks JavaScript</td>
-                            <td>2023-2024</td>
-                            <td>React, Vue.js, Angular</td>
+                            <td>2024-2025</td>
+                            <td>React 19, Vue 3.4, Angular 17, Svelte</td>
+                        </tr>
+                        <tr>
+                            <td>IA générative & Web</td>
+                            <td>2024-2025</td>
+                            <td>Copilot, Gemini, IA dans les CMS</td>
                         </tr>
                         <tr>
                             <td>Performance Web</td>
-                            <td>2023-2024</td>
-                            <td>Core Web Vitals, Optimisation</td>
+                            <td>2024-2025</td>
+                            <td>Core Web Vitals, HTTP/3, Lazy loading</td>
+                        </tr>
+                        <tr>
+                            <td>Cybersécurité</td>
+                            <td>2024-2025</td>
+                            <td>Zero Trust, MFA, attaques IA, RGPD 2025</td>
+                        </tr>
+                        <tr>
+                            <td>Accessibilité</td>
+                            <td>2024-2025</td>
+                            <td>WCAG 2.2, outils d’audit, design inclusif</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <!-- Sources et résumés -->
-            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles</h2>
+            <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Les nouveautés de React 19</h4>
-                    <p class="text-white"><strong>Source:</strong> React Blog - Février 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Présentation des nouvelles fonctionnalités et améliorations de performances.</p>
+                    <h4 class="text-white">React 19 : ce qui change vraiment</h4>
+                    <p class="text-white"><strong>Source:</strong> React Blog, 2024</p>
+                    <p class="text-white"><strong>Résumé:</strong> Suspense généralisé, Server Components, et de nouveaux hooks pour une expérience développeur améliorée.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">L'avenir du CSS</h4>
-                    <p class="text-white"><strong>Source:</strong> CSS-Tricks - Mars 2024</p>
-                    <p class="text-white"><strong>Résumé:</strong> Analyse des nouvelles propriétés CSS et leur impact sur le développement moderne.</p>
+                    <h4 class="text-white">L’IA générative révolutionne le web</h4>
+                    <p class="text-white"><strong>Source:</strong> Journal du Net, mars 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> L’intégration de l’IA dans les outils web (CMS, éditeurs, frameworks) accélère la création de contenu et la personnalisation des sites.</p>
+                </div>
+                <div class="article mb-4">
+                    <h4 class="text-white">Cybersécurité : les menaces 2025</h4>
+                    <p class="text-white"><strong>Source:</strong> ANSSI, avril 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Hausse des attaques par IA, importance du Zero Trust, MFA généralisé et nouvelles exigences RGPD.</p>
+                </div>
+                <div class="article mb-4">
+                    <h4 class="text-white">Accessibilité web : les nouveautés WCAG 2.2</h4>
+                    <p class="text-white"><strong>Source:</strong> MDN Web Docs, février 2025</p>
+                    <p class="text-white"><strong>Résumé:</strong> Les nouvelles recommandations facilitent la navigation pour tous, avec des outils d’audit intégrés aux navigateurs.</p>
                 </div>
             </div>
         </div>

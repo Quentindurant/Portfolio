@@ -522,9 +522,7 @@
                                     <h5 class="text-left mb-3"><i class="fa fa-sitemap pr-2"></i>Schéma explicatif</h5>
                                     <div class="schema-container p-3 bg-dark">
                                         <p>Architecture du système YapluCa :</p>
-                                        <ul>
-                                            <li><img src="image/Yaplucaexplication.svg" alt="YapluCa" class="img-fluid" /></li>
-                                        </ul>
+                                        <img src="./image/Yaplucaexplication.svg" alt="YapluCa" class="img-fluid" style="background:#fff;max-width:100%;height:auto;display:block;margin:auto;" />
                                     </div>
                                 </div>
                             </div>

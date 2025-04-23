@@ -121,7 +121,7 @@
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>
-                                    <img src="image/ScreenShot_calculette_immo.png" alt="calculette immo" class="img-fluid" />
+                                    <img src="image/calculette.png" alt="calculette immo" class="img-fluid" />
                                 </div>
                                 
                                 <!-- Schéma explicatif -->

@@ -55,9 +55,6 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/Welcome_Formation/" target="_blank">Welcome Formation</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 1</span>
-                                    </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->
                                 <div class="row open-sans-font mb-3">
@@ -195,7 +192,7 @@
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>
-                                    <img src="image/laravel_resized_895x552.png" alt="Click'n Eat" class="img-fluid" />
+                                    <img src="image/clickandeat.png" alt="Click'n Eat" class="img-fluid" />
                                 </div>
                                 <!-- Schéma explicatif -->
                                 <div class="col-12 mb-4">
@@ -356,12 +353,6 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
-                                        <span class="ft-wt-600 uppercase">
-                                            Développer la présence en ligne de l’organisation, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique
-                                        </span>
-                                    </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->
                                 <div class="row open-sans-font mb-3">
@@ -448,12 +439,6 @@
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/QuentinDurant/yapluCa" target="_blank">YapluCa</a></span>
-                                    </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
-                                        <span class="ft-wt-600 uppercase">
-                                            Gérer le patrimoine informatique, Développer la présence en ligne de l’organisation, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique, Organiser son développement professionnel
-                                        </span>
                                     </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->

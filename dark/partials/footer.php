@@ -17,7 +17,8 @@
                     <li><a href="index.php" class="text-white text-decoration-none">Accueil</a></li>
                     <li><a href="entreprise.php" class="text-white text-decoration-none">Entreprise</a></li>
                     <li><a href="veille.php" class="text-white text-decoration-none">Veille</a></li>
-                    <li><a href="grille.php" class="text-white text-decoration-none">Compétences</a></li>
+                    <li><a href="grille.php" class="text-white text-decoration-none">Grille</a></li>
+                    <li><a href="exercice.php" class="text-white text-decoration-none">Exercices</a></li>
                     <li><a href="projet.php" class="text-white text-decoration-none">Projet</a></li>
                 </ul>
             </div>

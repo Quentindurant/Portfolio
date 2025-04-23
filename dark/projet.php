@@ -240,24 +240,49 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="http://54.36.189.50/GCAdmin/admin/V1_admin.php" target="_blank">LDAP</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Compétences validées</span> :
-                                        <span class="ft-wt-600 uppercase">
-                                            Gérer le patrimoine informatique, Répondre aux incidents et aux demandes d’assistance, Travailler en mode projet, Mettre à disposition des utilisateurs un service informatique
-                                        </span>
+                                </div>
+                                <!-- Mini tableau des compétences -->
+                                <div class="row open-sans-font mb-3">
+                                    <div class="col-12">
+                                        <table class="table table-bordered table-sm text-center" style="background:#181818;color:#fff;font-size:13px;">
+                                            <thead>
+                                                <tr>
+                                                    <th style="background:#222;">Projet</th>
+                                                    <th style="background:#222;">Gérer le patrimoine informatique</th>
+                                                    <th style="background:#222;">Répondre aux incidents</th>
+                                                    <th style="background:#222;">Développer présence en ligne</th>
+                                                    <th style="background:#222;">Travailler en mode projet</th>
+                                                    <th style="background:#222;">Mettre à dispo un service</th>
+                                                    <th style="background:#222;">Développement professionnel</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>TELORA</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                <!-- Description du projet -->
+                                <div class="row open-sans-font mt-4">
+                                    <div class="col-12">
+                                        <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
+                                        <p class="text-left">
+                                            Système d'authentification LDAP pour la gestion des utilisateurs et des accès. Ce projet permet de centraliser la gestion des identités et des permissions pour les applications de l'entreprise.
+                                        </p>
                                     </div>
                                 </div>
                             </figcaption>
                             <!-- Project Details Ends -->
                             <!-- Main Project Content Starts -->
                             <div class="row open-sans-font">
-                                <!-- Description du projet -->
-                                <div class="col-12 mb-4">
-                                    <h5 class="text-left mb-3"><i class="fa fa-info-circle pr-2"></i>Description du projet</h5>
-                                    <p class="text-left">
-                                        Système d'authentification LDAP pour la gestion des utilisateurs et des accès. Ce projet permet de centraliser la gestion des identités et des permissions pour les applications de l'entreprise.
-                                    </p>
-                                </div>
                                 <!-- Capture d'écran principale -->
                                 <div class="col-12 mb-4">
                                     <h5 class="text-left mb-3"><i class="fa fa-desktop pr-2"></i>Capture d'écran</h5>

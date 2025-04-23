@@ -255,7 +255,7 @@
                                 <h3 style="color: #fff !important; font-size: 22px !important;">TELORA</h3>
                                 <div class="row open-sans-font">
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">LDAP</span>
+                                        <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">TELORA</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-user-o pr-2"></i><span class="project-label">Lieux </span>: <span class="ft-wt-600 uppercase">GC Developpement, Cholet</span>
@@ -264,7 +264,7 @@
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, PHP, SQL, JS, VPS </span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="http://54.36.189.50/GCAdmin/admin/V1_admin.php" target="_blank">LDAP</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://54.36.189.50/login/" target="_blank">LDAP</a></span>
                                     </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->

@@ -11,13 +11,6 @@ include 'partials/header.php';
         <div class="row">
             <!-- Développement Web -->
         <div class="col-md-8 col-lg-5 mb-4">
-              <div class="card project-card" onclick="location.href='web.php'">
-                <img src="image/devweb.png" class="card-img-top" alt="Développement Web"style="height: 200px; object-fit: cover;">
-                <div class="card-body">
-                  <h5 class="card-title">Développement Web</h5>
-                </div>
-              </div>
-            </div>
             <!-- Intelligence Artificielle -->
             <div class="col-md-8 col-lg-5 mb-4">
               <div class="card project-card" onclick="location.href='ia.php'">

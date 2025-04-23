@@ -41,7 +41,7 @@
                     <li><strong>Nom :</strong> GC Developpement</li>
                     <li><strong>Adresse :</strong> 2 plc Michel Ange, Cholet</li>
                     <li><strong>Téléphone :</strong> 02 72 10 82 60</li>
-                    <li><strong>Email :</strong> <a href="mailto:quentin.durant49@orange.fr" class="text-white">support@gcdeveloppement.fr</a></li>
+                    <li><strong>Email :</strong> <a href="mailto:info@gcdeveloppement.fr" class="text-white">info@gcdeveloppement.fr</a></li>
                 </ul>
                 <p class="mt-2">
                     Suivez-là sur : 

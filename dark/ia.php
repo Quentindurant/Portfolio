@@ -93,19 +93,19 @@ include 'partials/header.php';
             <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Gemini : la nouvelle IA de Google</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://blog.google/technology/ai/google-gemini-ai/" target="_blank" class="text-info">Google AI Blog, mars 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Gemini surpasse GPT-4 sur plusieurs benchmarks, intègre multimodalité et raisonnement avancé.</p>
+                    <h4 class="text-white">Gemini 2.5 : la nouvelle génération d’IA Google</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://blog.google/technology/ai/google-ai-updates-march-2025/" target="_blank" class="text-info">Google AI Blog, mars 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Présentation officielle des avancées Gemini 2.5 : multimodalité, raisonnement, performances sur LMArena.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Sora : l'IA vidéo d'OpenAI</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://openai.com/research/sora" target="_blank" class="text-info">OpenAI Blog, février 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Sora génère des vidéos réalistes à partir de descriptions textuelles, ouvrant de nouveaux usages créatifs.</p>
+                    <h4 class="text-white">Sora : l’IA vidéo d’OpenAI</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://openai.com/sora/" target="_blank" class="text-info">OpenAI, fév. 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Sora génère des vidéos réalistes à partir de descriptions textuelles : usages créatifs et perspectives.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">AI Act : la régulation européenne</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/artificial-intelligence_en" target="_blank" class="text-info">Commission Européenne, avril 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> L'AI Act encadre le développement et l'usage de l'IA en Europe, avec un focus sur la transparence et l'éthique.</p>
+                    <h4 class="text-white">AI Act : la régulation européenne entre en vigueur</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng" target="_blank" class="text-info">EUR-Lex, fév. 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Le règlement européen sur l’IA : cadre légal, obligations, portée et calendrier d’application.</p>
                 </div>
             </div>
         </div>

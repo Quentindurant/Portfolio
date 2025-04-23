@@ -99,23 +99,23 @@ include 'partials/header.php';
             <div class="article-summaries">
                 <div class="article mb-4">
                     <h4 class="text-white">React 19 : ce qui change vraiment</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://react.dev/blog/2024/04/20/react-19" target="_blank" class="text-info">React Blog, 2024</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Suspense généralisé, Server Components, et de nouveaux hooks pour une expérience développeur améliorée.</p>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://react.dev/blog/2024/12/05/react-19" target="_blank" class="text-info">React Blog, 5 déc. 2024</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Aperçu officiel des nouveautés de React 19 : nouveaux hooks, Server Components, Suspense, migration simplifiée.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">L’IA générative révolutionne le web</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.journaldunet.com/solutions/ia/" target="_blank" class="text-info">Journal du Net, mars 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> L’intégration de l’IA dans les outils web (CMS, éditeurs, frameworks) accélère la création de contenu et la personnalisation des sites.</p>
+                    <h4 class="text-white">L’IA générative en 2025 : tendances et enjeux</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://alain.goudey.eu/side/2025/01/14/les-perspectives-des-ia-generatives-en-2025/" target="_blank" class="text-info">SIDE Blog, janv. 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Un panorama des perspectives et défis de l’IA générative pour 2025, avec focus sur les usages web et la création de contenu.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Cybersécurité : les menaces 2025</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.ssi.gouv.fr/publication/rapport-annuel-2025/" target="_blank" class="text-info">ANSSI, avril 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Hausse des attaques par IA, importance du Zero Trust, MFA généralisé et nouvelles exigences RGPD.</p>
+                    <h4 class="text-white">Cybersécurité : panorama des menaces 2025</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-004/" target="_blank" class="text-info">CERT-FR, mars 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Rapport officiel sur les tendances, attaques majeures et recommandations pour la sécurité web et cloud en 2025.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Accessibilité web : les nouveautés WCAG 2.2</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://developer.mozilla.org/fr/docs/Web/Accessibility/WCAG" target="_blank" class="text-info">MDN Web Docs, février 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Les nouvelles recommandations facilitent la navigation pour tous, avec des outils d’audit intégrés aux navigateurs.</p>
+                    <h4 class="text-white">Accessibilité web : nouveautés WCAG 2.2</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.w3.org/news/2025/authorized-translation-of-wcag-2-2-in-french/" target="_blank" class="text-info">W3C, mars 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Traduction officielle des WCAG 2.2 : nouvelles règles et bonnes pratiques pour un web plus accessible.</p>
                 </div>
             </div>
         </div>

@@ -91,19 +91,19 @@ include 'partials/header.php';
             <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">Les menaces cyber 2025 : l’ère de l’IA malveillante</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.ssi.gouv.fr/publication/rapport-annuel-2025/" target="_blank" class="text-info">ANSSI, avril 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Les attaques par IA se multiplient, rendant la détection plus complexe et nécessitant de nouveaux outils défensifs.</p>
+                    <h4 class="text-white">Panorama de la cybermenace 2025</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://incyber.org/article/anssi-publie-son-panorama-cybermenace-2025/" target="_blank" class="text-info">InCyber, mars 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Analyse des principales menaces, chiffres clés et recommandations de l’ANSSI pour 2025.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Zero Trust : la nouvelle norme</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.zdnet.fr/actualites/zero-trust-la-nouvelle-norme-39966687.htm" target="_blank" class="text-info">ZDNet, février 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> L’adoption du Zero Trust Network Access s’accélère, notamment dans les grandes entreprises et le secteur public.</p>
+                    <h4 class="text-white">Zero Trust : la tendance cybersécurité 2025</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://cybersecuritynews.com/zero-trust-2025/" target="_blank" class="text-info">Cybersecurity News, janv. 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Pourquoi Zero Trust s’impose comme standard : principes, déploiement, cas d’usage récents.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">RGPD 2025 : ce qui change</h4>
+                    <h4 class="text-white">RGPD : évolutions et conformité en 2025</h4>
                     <p class="text-white"><strong>Source:</strong> <a href="https://www.cnil.fr/fr/rgpd-evolution-2025" target="_blank" class="text-info">CNIL, mars 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Le RGPD évolue pour mieux encadrer les données dans le cloud et renforcer la protection des utilisateurs européens.</p>
+                    <p class="text-white"><strong>Résumé:</strong> Les nouveautés RGPD : cloud, privacy by design, exigences pour les entreprises et administrations.</p>
                 </div>
             </div>
         </div>

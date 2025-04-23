@@ -93,19 +93,19 @@ include 'partials/header.php';
             <h2 class="mb-4 mt-5 text-white">Sources et résumés d'articles récents</h2>
             <div class="article-summaries">
                 <div class="article mb-4">
-                    <h4 class="text-white">L’IA embarquée dans les satellites</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.esa.int/Applications/Observing_the_Earth/AI_in_satellites" target="_blank" class="text-info">ESA Tech, janvier 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> L’intelligence artificielle optimise le traitement des images et la gestion des ressources à bord des satellites.</p>
+                    <h4 class="text-white">L’IA embarquée dans les satellites européens</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://connectivity.esa.int/news/how-extend-lifespan-satellites-and-enabling-cost-efficiency-through-ai-software" target="_blank" class="text-info">ESA, janv. 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> L’ESA détaille l’usage de l’IA pour la maintenance prédictive et l’optimisation des satellites.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Starlink et la nouvelle ère des constellations</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.space.com/spacex-starlink-satellite-megaconstellation" target="_blank" class="text-info">Space.com, mars 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Les constellations de satellites révolutionnent l’accès à Internet partout sur Terre et posent de nouveaux défis techniques.</p>
+                    <h4 class="text-white">Starlink : la constellation en chiffres et perspectives</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/" target="_blank" class="text-info">SpaceNews, mars 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Starlink : croissance, usages, défis techniques et géopolitiques en 2025.</p>
                 </div>
                 <div class="article mb-4">
-                    <h4 class="text-white">Missions Artemis : le retour sur la Lune</h4>
-                    <p class="text-white"><strong>Source:</strong> <a href="https://www.nasa.gov/specials/artemis/" target="_blank" class="text-info">NASA, avril 2025</a></p>
-                    <p class="text-white"><strong>Résumé:</strong> Les missions Artemis préparent l’installation durable de l’homme sur la Lune avec des innovations robotiques et matérielles.</p>
+                    <h4 class="text-white">Missions Artemis : actualités et calendrier</h4>
+                    <p class="text-white"><strong>Source:</strong> <a href="https://www.nasa.gov/mission/artemis-ii/" target="_blank" class="text-info">NASA, avril 2025</a></p>
+                    <p class="text-white"><strong>Résumé:</strong> Le point sur Artemis II : objectifs, équipage, avancées et prochaines étapes du programme lunaire.</p>
                 </div>
             </div>
         </div>

@@ -52,23 +52,11 @@ nav.pagination {
                                 <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisation en cours de formation</td>
                             </tr>
                             <tr>
-                                <td><a href="projet.php#portfolio" class="grille-link">Portfolio</a></td>
-                                <td class="text-center"></td>
-                                <td class="text-center"></td>
-                                <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                            </tr>
-                            <tr>
-                                <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de première année</td>
-                            </tr>
-                            <tr>
                                 <td><a href="projet.php#clickneat" class="grille-link">Click'n Eat</a></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
-                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
                                 <td class="text-center"></td>
                             </tr>

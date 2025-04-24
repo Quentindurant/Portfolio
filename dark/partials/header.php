@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <title>portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="img/FaviconQD.png">
 
     <!-- Template CSS Files -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

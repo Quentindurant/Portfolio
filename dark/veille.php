@@ -11,7 +11,7 @@ include 'partials/header.php';
         <div class="row">
             <!-- Intelligence Artificielle -->
             <div class="col-md-8 col-lg-5 mb-4">
-              <div class="card project-card" onclick="location.href='ia.php'">
+              <div class="card project-card veille-card" onclick="location.href='ia.php'">
                 <img src="image/téléchargé.jpg" class="card-img-top" alt="Intelligence Artificielle"style="height: 200px; object-fit: cover;">
                 <div class="card-body">
                   <h5 class="card-title">L'Intelligence Artificielle</h5>
@@ -20,7 +20,7 @@ include 'partials/header.php';
             </div>
             <!-- Cybersécurité -->
             <div class="col-md-8 col-lg-5 mb-4">
-              <div class="card project-card" onclick="location.href='cybersecurite.php'">
+              <div class="card project-card veille-card" onclick="location.href='cybersecurite.php'">
                 <img src="image/cybersecurite.png" class="card-img-top" alt="Cybersécurité"style="height: 200px; object-fit: cover;">
                 <div class="card-body">
                   <h5 class="card-title">Cybersécurité</h5>
@@ -29,7 +29,7 @@ include 'partials/header.php';
             </div>
             <!-- Informatique de l'Espace -->
             <div class="col-md-8 col-lg-5 mb-4">
-              <div class="card project-card" onclick="location.href='espace.php'">
+              <div class="card project-card veille-card" onclick="location.href='espace.php'">
                 <img src="image/espace.png" class="card-img-top" alt="Informatique de l'espace"style="height: 200px; object-fit: cover;">
                 <div class="card-body">
                   <h5 class="card-title">Informatique de l'Espace</h5>
@@ -38,6 +38,10 @@ include 'partials/header.php';
             </div>
         </div>
     </div>
+
+<style>
+.veille-card { cursor: pointer; }
+</style>
 
 <?php
 // FOOTER

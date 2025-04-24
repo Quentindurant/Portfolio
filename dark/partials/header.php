@@ -53,7 +53,7 @@
         <li class="icon-box <?= ($current_page == 'projet.php') ? 'active' : '' ?>">
             <i class="fa fa-briefcase"></i>
             <a href="projet.php">
-                <h2>Projets</h2>
+                <h2>Réalisation</h2>
             </a>
         </li>
         <li class="icon-box <?= ($current_page == 'exercice.php') ? 'active' : '' ?>">

@@ -10,7 +10,7 @@
 <!-- Header Ends -->
     <!-- SECTION ECOLE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
-        <h1>Projets <span>ECOLE</span></h1>
+        <h1>Réalisation <span>ECOLE</span></h1>
         <span class="title-bg">School</span>
     </section>
 
@@ -218,8 +218,8 @@
 
     <!-- SECTION ENTREPRISE -->
     <section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
-        <h1>Projets <span>ENTREPRISE</span></h1>
-        <span class="title-bg">Works</span>
+        <h1>Réalisation <span>ENTREPRISE</span></h1>
+        <span class="title-bg">Entreprise</span>
     </section>
 
     <div id="grid-gallery" class="container grid-gallery">

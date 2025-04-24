@@ -19,7 +19,7 @@
                     <li><a href="veille.php" class="text-white text-decoration-none">Veille</a></li>
                     <li><a href="grille.php" class="text-white text-decoration-none">Grille</a></li>
                     <li><a href="exercice.php" class="text-white text-decoration-none">Exercices</a></li>
-                    <li><a href="projet.php" class="text-white text-decoration-none">Projet</a></li>
+                    <li><a href="projet.php" class="text-white text-decoration-none">Réalisation</a></li>
                 </ul>
             </div>
             <!-- Section Contact -->

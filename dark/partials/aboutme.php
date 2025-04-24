@@ -34,7 +34,7 @@
                             </ul>
                         </div>
                         <div class="col-12 mt-3">
-                            <a class="button" href="img/CV_Quentin_Durant.pdf" target="_blank">
+                            <a class="button" href="img/CV_Quentin_Durant.pdf">
                                 <span class="button-text">Download CV</span>
                                 <span class="button-icon fa fa-download"></span>
                             </a>

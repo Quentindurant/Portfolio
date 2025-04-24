@@ -2,7 +2,6 @@
     <meta charset="utf-8">
     <title>portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" sizes="32x32" href="image/FaviconQD.png">
     <link rel="shortcut icon" href="image/FaviconQD.png">
 
     <!-- Template CSS Files -->

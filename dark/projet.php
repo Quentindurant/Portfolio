@@ -136,9 +136,6 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Click'n Eat</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 1</span>
-                                    </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->
                                 <div class="row open-sans-font mb-3">

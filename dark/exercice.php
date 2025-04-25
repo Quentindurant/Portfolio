@@ -99,9 +99,7 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://calculimmo.quentindurant.com" target="_blank">Calculette Immobilier</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 1</span>
-                                    </div>
+
                                 </div>
                                 
                                 <!-- Description du projet -->
@@ -160,9 +158,6 @@
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://newsletter.quentindurant.com" target="_blank">Newsletter</a></span>
-                                    </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 1</span>
                                     </div>
                                 </div>
                                 
@@ -223,9 +218,6 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">Apple</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 3, Ligne 1</span>
-                                    </div>
                                 </div>
                                 
                                 <!-- Description du projet -->
@@ -284,9 +276,6 @@
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/quentindurant/meteo-react" target="_blank">GitHub</a></span>
-                                    </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 1, Ligne 2</span>
                                     </div>
                                 </div>
                                 
@@ -348,9 +337,6 @@
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/quentindurant/matrice-js" target="_blank">GitHub</a></span>
                                     </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 2, Ligne 2</span>
-                                    </div>
                                 </div>
                                 
                                 <!-- Description du projet -->
@@ -410,9 +396,6 @@
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/quentindurant/admin-template" target="_blank">GitHub</a></span>
-                                    </div>
-                                    <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-th pr-2"></i><span class="project-label">Position Grille </span>: <span class="ft-wt-600 uppercase">Colonne 3, Ligne 2</span>
                                     </div>
                                 </div>
                                 

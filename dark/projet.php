@@ -264,7 +264,7 @@
                                         <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://54.36.189.50/login/" target="_blank">LDAP</a></span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Docs </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/Quentindurant/Yapluca/tree/main/docs" target="_blank">UML</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Docs </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/Quentindurant/LDAP_BACKUP/tree/main/Documentation_LDAP" target="_blank">UML</a></span>
                                     </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->
@@ -351,7 +351,7 @@
                                         <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">PHP, Laravel, MySQL, HTML, CSS, JS</span>
                                     </div>
                                     <div class="col-12 col-sm-6 mb-2">
-                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="https://quentindurant.github.io/site-Apple/" target="_blank">DELYTECH</a></span>
+                                        <i class="fa fa-external-link pr-2"></i><span class="project-label">Docs </span>: <span class="ft-wt-600 uppercase"><a href="https://github.com/Quentindurant/Optitech/tree/main/Documentation_Delytech" target="_blank">UML</a></span>
                                     </div>
                                 </div>
                                 <!-- Mini tableau des compétences -->

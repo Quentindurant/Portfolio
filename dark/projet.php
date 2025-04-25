@@ -77,9 +77,9 @@
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
                                                     <td></td>
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
-                                                    <td></td>
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
-                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -155,12 +155,12 @@
                                             <tbody>
                                                 <tr>
                                                     <td>CLICK'N EAT</td>
-                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
                                                     <td></td>
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
                                                     <td style="color:#ff0000;font-weight:bold;">x</td>
-                                                    <td></td>
+                                                    <td style="color:#ff0000;font-weight:bold;">x</td>
                                                 </tr>
                                             </tbody>
                                         </table>

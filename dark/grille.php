@@ -61,6 +61,15 @@ nav.pagination {
                                 <td class="text-center"></td>
                             </tr>
                             <tr>
+                                <td><a href="projet.php#welcomeformation" class="grille-link">Webformation</a></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                                <td class="text-center"><span style="color: #ff0000; font-weight: bold;">x</span></td>
+                            </tr>
+                            <tr>
                                 <td colspan="7" class="font-weight-bold" style="background-color: rgba(172, 43, 43, 0.3);">Réalisations en milieu professionnel en cours de seconde année</td>
                             </tr>
                             <tr>

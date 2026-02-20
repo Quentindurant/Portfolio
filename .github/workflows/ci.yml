@@ -19,10 +19,9 @@ jobs:
             cd ${{ secrets.PROJECT_PATH }}
             sudo chown -R ${{ secrets.SERVER_USERNAME }}:${{ secrets.SERVER_USERNAME }} .
             git config --global --add safe.directory ${{ secrets.PROJECT_PATH }}
-            git stash -u
-            git pull origin main
-            git stash pop || true
-            cd dark/              # Aller dans le sous-dossier Next.js
-            npm install           # Installer les nouvelles dépendances si besoin
-            npm run build         # Re-builder l'app Next.js
-            pm2 restart portfolio # Redémarrer le processus PM2
+            git fetch origin main
+            git reset --hard origin/main
+            cd dark/
+            npm install
+            npm run build
+            pm2 restart portfolio

@@ -36,7 +36,7 @@ export default function Home() {
                   href="/contact"
                   className="btn-glow inline-block px-8 py-3 text-white font-medium rounded-2xl"
                 >
-                  Me contacter
+                  Me contacterr
                 </Link>
               </div>
             </div>

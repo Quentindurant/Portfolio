@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap');
 @import "tailwindcss";
 
 @theme inline {
@@ -10,8 +9,6 @@
   --color-text-primary: #F1F5F9;
   --color-text-secondary: #94A3B8;
   --color-border: #1E293B;
-  --font-sans: 'Inter', sans-serif;
-  --font-heading: 'Poppins', sans-serif;
 }
 
 body {

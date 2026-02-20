@@ -7,39 +7,46 @@ import SectionTitle from "@/components/SectionTitle";
 import CountUp from "@/components/CountUp";
 
 const stats = [
-  { value: 11, suffix: "", label: "Projets réalisés" },
-  { value: 10, suffix: "+", label: "Technologies" },
-  { value: 3, suffix: "", label: "Années d'expérience" },
+  { value: 11, suffix: "+", label: "Projets réalisés" },
+  { value: 15, suffix: "+", label: "Technologies" },
+  { value: 3, suffix: " ans", label: "En alternance" },
 ];
 
 const timeline = [
   {
-    year: "2025 - Présent",
-    title: "B3 Développeur Web - Alternance",
+    year: "2025 - 2026",
+    title: "B3 Développeur Web & Validation CDA",
     company: "MyDigitalSchool & GCservice",
     description:
-      "Formation Bachelor développeur web en alternance. Développement d'applications web internes, gestion de projets.",
+      "Bachelor Développeur Web en alternance. Chef de projet Telecom et développeur web chez GCservice. Validation du titre CDA (Concepteur Développeur d'Applications).",
   },
   {
-    year: "2023 - 2025",
-    title: "BTS SIO - Option SLAM (Développement)",
-    company: "ESPL MyDigitalSchool, Angers",
+    year: "2024 - 2025",
+    title: "BTS SIO SLAM - Alternance (2e année)",
+    company: "ESPL MyDigitalSchool & GCservice",
     description:
-      "Formation en alternance spécialisée en développement d'applications, base de données et gestion de projets informatiques.",
+      "Chef de projet Telecom et développeur web en alternance. Gestion de projets, développement d'applications internes et coordination d'équipes techniques.",
   },
   {
-    year: "2022 - 2025",
-    title: "Développeur Web & Support Réseau Telecom",
-    company: "GC Développement / GCservice, Cholet",
+    year: "2023 - 2024",
+    title: "BTS SIO SLAM - Alternance (1re année)",
+    company: "ESPL MyDigitalSchool & GCservice",
     description:
-      "Développement d'applications web internes, support technique, staging d'équipements et déploiement réseau.",
+      "Technicien support Telecom et développeur en alternance. Support technique, staging d'équipements et premières applications web internes.",
+  },
+  {
+    year: "2022 - 2023",
+    title: "BTS SN IR (Systèmes Numériques)",
+    company: "Angers",
+    description:
+      "Première année en informatique et réseaux. Apprentissage des fondamentaux système, réseau et programmation.",
   },
   {
     year: "2019 - 2022",
     title: "Baccalauréat STI2D - Option SIN",
     company: "Lycée Chevrollier, Angers",
     description:
-      "Formation en systèmes d'information et numérique, bases de la programmation et des réseaux.",
+      "Formation en systèmes d'information et numérique. Bases de la programmation, des réseaux et de l'électronique.",
   },
 ];
 
@@ -97,17 +104,17 @@ export default function AProposPage() {
                 Quentin <span className="text-gradient">Durant</span>
               </h3>
               <p className="text-text-secondary leading-relaxed mb-4">
-                Actuellement en B3 Développeur Web en alternance chez GCservice (MyDigitalSchool),
-                je travaille principalement avec PHP, Laravel, JavaScript et Flutter pour créer
-                des applications concrètes et performantes.
+                Actuellement en Bachelor B3 Développeur Web (MyDigitalSchool), je suis chef de projet
+                Telecom et développeur web en alternance chez GCservice. Je travaille avec
+                Laravel, React, Next.js et Flutter pour créer des applications concrètes.
               </p>
               <p className="text-text-secondary leading-relaxed mb-4">
-                Mon parcours combine développement web et gestion de projets télécom,
-                ce qui me donne une vision globale des enjeux techniques et business.
+                Mon parcours mêle développement web et gestion de projets télécom depuis 3 ans,
+                ce qui me donne une double vision technique et pilotage de projet.
               </p>
               <p className="text-text-secondary leading-relaxed">
-                Je suis à la recherche d&apos;une alternance pour un Master MBA Développeur Full Stack (2 ans),
-                et disponible pour des missions freelance. Ouvert à toute opportunité ambitieuse.
+                Je recherche une alternance Master MBA Développeur Full Stack (2 ans)
+                et suis disponible pour des missions freelance.
               </p>
             </div>
           </div>

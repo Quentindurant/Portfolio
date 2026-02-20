@@ -104,6 +104,31 @@ export const projects: Project[] = [
     featured: true,
   },
   {
+    slug: "portfolio",
+    title: "Portfolio Personnel",
+    shortDescription:
+      "Ce portfolio, conçu avec Next.js, React et Tailwind CSS. Design dark mode, animations Framer Motion.",
+    description:
+      "Portfolio personnel développé avec Next.js 14, React et Tailwind CSS. Design system dark mode avec effets de glow, animations Framer Motion et optimisation SEO.",
+    image: "/images/FaviconQD.png",
+    category: "exercice",
+    categoryLabel: "Projet personnel",
+    location: "Projet personnel",
+    role: "Développeur Front-End",
+    stack: ["Next.js", "React", "TypeScript", "Tailwind", "Framer Motion"],
+    problem:
+      "Créer un portfolio moderne et performant pour présenter mes projets et compétences de manière professionnelle.",
+    features: [
+      "Design system dark mode cohérent",
+      "Animations fluides avec Framer Motion",
+      "SEO optimisé avec OpenGraph",
+      "Responsive mobile-first",
+      "Performance optimisée avec next/font",
+    ],
+    screenshots: ["/images/FaviconQD.png"],
+    featured: true,
+  },
+  {
     slug: "welcome-formation",
     title: "Welcome Formation",
     shortDescription:
@@ -322,4 +347,9 @@ export const allTechStack = [
   "Firebase",
   "Node.js",
   "Git",
+  "GitHub",
+  "Docker",
+  "Linux",
+  "Figma",
+  "VS Code",
 ];

@@ -33,7 +33,7 @@ export default function Hero() {
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500" />
               </span>
               <span className="text-sm text-text-secondary">
-                Alternant B3 chez <span className="text-text-primary font-medium">GCservice</span> &middot; Recherche alternance / freelance
+                Disponible en freelance &middot; Recherche alternance <span className="text-text-primary font-medium">Master MBA Full Stack</span>
               </span>
             </motion.div>
 
@@ -52,8 +52,8 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-text-secondary max-w-lg mb-4 leading-relaxed">
-              Développeur web en alternance B3 chez GCservice (MyDigitalSchool).
-              Je crée des applications web et mobiles concrètes avec PHP, Laravel, JavaScript et Flutter.
+              Chef de projet Telecom & développeur web chez GCservice, en Bachelor B3 (MyDigitalSchool).
+              Je conçois des applications web et mobiles avec Laravel, React, Next.js et Flutter.
             </p>
 
             {/* Location + status */}
@@ -91,9 +91,9 @@ export default function Hero() {
               className="flex gap-8 mt-10 pt-8 border-t border-border/50"
             >
               {[
-                { value: "11", label: "Projets" },
-                { value: "10+", label: "Technos" },
-                { value: "3 ans", label: "Expérience" },
+                { value: "11+", label: "Projets" },
+                { value: "15+", label: "Technos" },
+                { value: "3 ans", label: "En alternance" },
               ].map((stat) => (
                 <div key={stat.label}>
                   <span className="text-xl font-bold text-accent">{stat.value}</span>
